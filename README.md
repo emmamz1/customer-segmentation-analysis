@@ -244,9 +244,9 @@ customer-segmentation/
 │   ├── 02b_Segmentacion_PorCategoria.ipynb
 │   └── 03_Storytelling.ipynb
 └── data/
-    ├── product_sales_clean.csv
-    ├── customer_segmentation.csv
-    └── customer_segmentation_BY_CATEGORY.csv
+    ├── product_sales_dataset_SAMPLE.csv
+    ├── customer_segmentation_SAMPLE.csv
+    └── customer_segmentation_BY_CATEGORY_SAMPLE.csv
 ```
 
 ## Tech Stack
@@ -260,7 +260,45 @@ customer-segmentation/
 | **Jupyter** | Notebooks interactivos |
 
 ---
+## Datos
 
+### Muestras Incluidas en el Repo
+
+El repositorio incluye **muestras pequeñas (2,000 filas)** de los datasets para demostración. Esto sirve para ver la estructura y ejecutar los notebooks en Colab sin descargar datos gigantes.
+
+---
+
+### Datos Completos (197K Clientes)
+
+Para reproducir el análisis completo, necesitás el dataset original:
+
+**Opción A: Descargar de Kaggle (Recomendado)**
+
+1. Descarga aquí: [Product Sales Dataset 2023-2024](https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024)
+2. Renómbralo a `product_sales_dataset_final.csv`
+3. Sube a `/data/` en tu copia local del repo
+4. Ejecuta `notebooks/02_Segmentacion_Global.ipynb` para generar automáticamente:
+   - `customer_segmentation.csv`
+   - `customer_segmentation_BY_CATEGORY.csv`
+
+**Opción B: Ejecutar en Colab (Sin descargar)**
+
+1. Abre `notebooks/02_Segmentacion_Global.ipynb`
+2. Sube `product_sales_dataset_final.csv` de Kaggle directamente a Colab
+3. Ejecuta las celdas
+4. Descarga los CSVs generados desde Colab
+
+**Opción C: Contactarme**
+
+Si necesitás los datasets completos procesados, contactame: emmamendoza170@gmail.com
+
+---
+## Nota Sobre Tamaño
+
+Los archivos completos pesan +25MB cada uno, por eso no están en GitHub. 
+Las muestras (SAMPLE) pesan ~2MB y sirven para explorar la estructura del análisis.
+
+---
 ## Notas Importantes
 
 ### Sobre el Sesgo de Categoría
