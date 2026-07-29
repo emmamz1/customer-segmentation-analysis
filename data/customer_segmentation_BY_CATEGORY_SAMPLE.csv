@@ -1,0 +1,2001 @@
+Customer_ID_Numeric,Category,Revenue_In_Category,Profit_In_Category,Quantity_In_Category,R_Score,Segment,M_Score_Category,Segment_Category
+0,Accessories,603.03,221.49,3,2,At_Risk,5.0,High_Value
+1,Accessories,297.2,97.09,4,5,Potential,4.0,Champions
+2,Clothing & Apparel,68.19,25.47,1,3,At_Risk,1.0,At_Risk
+3,Clothing & Apparel,628.92,231.38,3,5,Potential,4.0,Champions
+4,Accessories,216.63,42.46,1,2,Lost,3.0,At_Risk
+5,Electronics,701.15,90.63,1,5,Champions,2.0,Potential
+6,Electronics,1750.68,320.37,2,5,Champions,5.0,Champions
+7,Clothing & Apparel,329.29,65.91,1,4,Champions,3.0,Potential
+7,Home & Furniture,1263.99,432.19,3,4,Champions,4.0,Champions
+8,Clothing & Apparel,230.7,87.44,2,2,Lost,2.0,Lost
+9,Electronics,2547.55,472.9,5,2,High_Value,5.0,High_Value
+10,Clothing & Apparel,730.24,220.43,2,1,High_Value,5.0,High_Value
+10,Home & Furniture,481.9,91.41,1,1,High_Value,2.0,Lost
+11,Accessories,124.92,24.65,1,2,Lost,2.0,Lost
+12,Electronics,1434.12,246.97,2,1,High_Value,4.0,High_Value
+13,Clothing & Apparel,65.54,15.19,2,2,Lost,1.0,Lost
+14,Electronics,790.39,107.36,1,4,Champions,3.0,Potential
+15,Home & Furniture,70.27,16.25,1,2,Lost,1.0,Lost
+16,Clothing & Apparel,96.81,22.57,1,2,Lost,1.0,Lost
+17,Clothing & Apparel,369.28,135.86,2,3,At_Risk,3.0,Loyal
+18,Clothing & Apparel,104.5,21.17,1,1,Lost,1.0,Lost
+19,Clothing & Apparel,59.75,13.47,1,1,Lost,1.0,Lost
+20,Clothing & Apparel,1345.25,541.55,5,1,High_Value,5.0,High_Value
+21,Electronics,844.67,106.63,1,3,Loyal,3.0,Loyal
+22,Accessories,158.4,61.29,2,1,At_Risk,2.0,Lost
+22,Clothing & Apparel,373.51,121.97,1,1,At_Risk,3.0,At_Risk
+23,Accessories,424.59,93.32,3,3,Loyal,4.0,Loyal
+24,Home & Furniture,1237.76,158.76,2,3,Loyal,4.0,Loyal
+25,Accessories,229.22,91.28,1,1,Lost,3.0,At_Risk
+26,Clothing & Apparel,390.32,92.92,1,2,At_Risk,3.0,At_Risk
+27,Electronics,2823.24,310.43,4,4,Champions,5.0,Champions
+28,Accessories,285.38,125.15,2,3,At_Risk,4.0,Loyal
+29,Home & Furniture,888.42,247.36,1,2,High_Value,4.0,High_Value
+30,Electronics,447.73,46.93,1,3,Loyal,2.0,At_Risk
+31,Electronics,1168.88,132.27,2,4,Champions,4.0,Champions
+32,Home & Furniture,251.97,74.71,1,4,Potential,1.0,At_Risk
+33,Accessories,204.11,55.32,1,1,Lost,3.0,At_Risk
+34,Electronics,652.49,71.62,1,3,Loyal,2.0,At_Risk
+35,Clothing & Apparel,272.86,97.83,1,2,Lost,3.0,At_Risk
+36,Home & Furniture,358.34,93.12,1,2,Lost,2.0,Lost
+37,Clothing & Apparel,213.71,42.76,1,1,Lost,2.0,Lost
+38,Clothing & Apparel,503.16,159.48,3,1,At_Risk,4.0,High_Value
+39,Home & Furniture,1443.64,386.41,2,3,Loyal,5.0,Loyal
+40,Clothing & Apparel,327.11,137.77,1,2,Lost,3.0,At_Risk
+41,Electronics,205.0,35.63,1,5,Potential,1.0,At_Risk
+42,Accessories,369.85,86.49,5,2,At_Risk,4.0,High_Value
+43,Clothing & Apparel,349.89,148.08,3,1,Lost,3.0,At_Risk
+44,Accessories,182.56,37.02,2,5,At_Risk,2.0,Potential
+45,Home & Furniture,301.9,36.53,2,3,At_Risk,1.0,At_Risk
+46,Electronics,3846.9,761.16,3,3,Loyal,5.0,Loyal
+47,Clothing & Apparel,550.83,116.51,3,3,Loyal,4.0,Loyal
+48,Clothing & Apparel,122.75,47.1,5,3,At_Risk,1.0,At_Risk
+49,Clothing & Apparel,411.48,114.45,1,2,At_Risk,4.0,High_Value
+50,Electronics,1153.84,105.99,2,3,Loyal,4.0,Loyal
+51,Clothing & Apparel,328.1,132.93,2,5,Potential,3.0,Potential
+52,Home & Furniture,439.7,117.04,1,4,Potential,2.0,Potential
+53,Clothing & Apparel,68.77,29.64,1,2,Lost,1.0,Lost
+54,Clothing & Apparel,43.44,11.6,2,5,At_Risk,1.0,At_Risk
+55,Home & Furniture,612.6,120.12,1,4,Potential,3.0,Potential
+56,Home & Furniture,2147.64,275.89,3,2,High_Value,5.0,High_Value
+57,Clothing & Apparel,348.33,121.62,1,3,At_Risk,3.0,Loyal
+58,Electronics,407.44,46.45,1,5,Potential,1.0,At_Risk
+59,Electronics,2084.1,272.17,2,1,High_Value,5.0,High_Value
+60,Clothing & Apparel,102.96,32.49,1,1,Lost,1.0,Lost
+61,Home & Furniture,248.45,61.95,1,2,Lost,1.0,Lost
+62,Accessories,242.98,65.79,2,3,At_Risk,3.0,Loyal
+63,Clothing & Apparel,245.8,72.93,2,1,Lost,2.0,Lost
+64,Home & Furniture,692.18,193.09,2,2,High_Value,3.0,At_Risk
+65,Home & Furniture,622.48,196.01,2,5,Potential,3.0,Potential
+66,Accessories,134.2,63.51,1,5,Potential,2.0,Potential
+66,Clothing & Apparel,470.58,193.7,1,5,Potential,4.0,Champions
+67,Clothing & Apparel,981.57,397.53,3,3,Loyal,5.0,Loyal
+68,Home & Furniture,3500.68,993.02,4,2,High_Value,5.0,High_Value
+69,Clothing & Apparel,139.8,43.82,1,5,At_Risk,1.0,At_Risk
+70,Electronics,1812.68,155.73,4,2,High_Value,5.0,High_Value
+71,Home & Furniture,1812.54,606.34,2,2,High_Value,5.0,High_Value
+72,Accessories,266.1,98.1,2,5,Potential,4.0,Champions
+73,Home & Furniture,772.68,97.75,3,3,Loyal,3.0,Loyal
+74,Clothing & Apparel,616.47,215.53,3,2,At_Risk,4.0,High_Value
+75,Home & Furniture,898.0,246.34,2,4,Champions,4.0,Champions
+76,Electronics,779.15,133.9,1,1,High_Value,3.0,At_Risk
+77,Electronics,641.24,123.18,1,3,Loyal,2.0,At_Risk
+78,Clothing & Apparel,731.24,196.62,4,5,Champions,5.0,Champions
+79,Accessories,182.02,87.29,2,3,At_Risk,2.0,At_Risk
+80,Electronics,385.05,42.21,1,1,At_Risk,1.0,Lost
+81,Home & Furniture,705.42,105.96,1,4,Champions,3.0,Potential
+82,Home & Furniture,922.65,125.32,3,5,Champions,4.0,Champions
+83,Clothing & Apparel,227.16,85.46,2,1,Lost,2.0,Lost
+84,Clothing & Apparel,394.47,110.19,1,3,Loyal,4.0,Loyal
+85,Home & Furniture,342.55,85.98,1,5,Potential,2.0,Potential
+86,Electronics,655.98,98.8,2,1,High_Value,2.0,Lost
+87,Electronics,1396.42,245.62,2,5,Champions,4.0,Champions
+88,Accessories,228.32,42.63,2,5,Potential,3.0,Potential
+89,Clothing & Apparel,160.63,44.53,1,1,Lost,2.0,Lost
+90,Electronics,424.08,35.63,1,2,At_Risk,1.0,Lost
+91,Clothing & Apparel,94.65,38.75,1,5,At_Risk,1.0,At_Risk
+92,Accessories,56.39,19.93,1,5,At_Risk,1.0,At_Risk
+93,Home & Furniture,245.64,51.63,1,3,At_Risk,1.0,At_Risk
+94,Home & Furniture,690.76,99.86,2,1,High_Value,3.0,At_Risk
+95,Accessories,61.12,24.41,1,3,At_Risk,1.0,At_Risk
+96,Clothing & Apparel,232.4,70.98,1,3,Loyal,2.0,At_Risk
+96,Home & Furniture,402.88,51.39,1,3,Loyal,2.0,At_Risk
+97,Electronics,246.99,32.53,1,4,Potential,1.0,At_Risk
+98,Clothing & Apparel,357.51,101.92,3,5,Potential,3.0,Potential
+99,Accessories,467.42,138.75,2,2,At_Risk,5.0,High_Value
+100,Home & Furniture,4635.42,1536.8,6,4,Champions,5.0,Champions
+101,Clothing & Apparel,728.86,325.52,2,2,High_Value,5.0,High_Value
+102,Electronics,2438.13,462.72,3,4,Champions,5.0,Champions
+103,Clothing & Apparel,705.15,298.92,3,5,Champions,5.0,Champions
+104,Clothing & Apparel,632.46,237.0,2,1,High_Value,4.0,High_Value
+105,Home & Furniture,1996.53,397.07,3,5,Champions,5.0,Champions
+106,Accessories,690.4,300.3,4,3,Loyal,5.0,Loyal
+107,Clothing & Apparel,654.62,141.69,2,3,Loyal,4.0,Loyal
+108,Home & Furniture,611.41,117.41,1,1,At_Risk,3.0,At_Risk
+109,Clothing & Apparel,356.39,140.73,1,5,Potential,3.0,Potential
+110,Electronics,2098.29,179.84,3,4,Champions,5.0,Champions
+111,Electronics,583.9,90.6,2,2,At_Risk,2.0,Lost
+112,Accessories,71.56,31.17,1,3,At_Risk,1.0,At_Risk
+113,Clothing & Apparel,93.44,19.47,1,2,Lost,1.0,Lost
+114,Electronics,3088.4,337.0,4,5,Champions,5.0,Champions
+114,Home & Furniture,705.26,172.49,2,5,Champions,3.0,Potential
+115,Accessories,198.3,91.63,2,4,Potential,3.0,Potential
+116,Accessories,182.62,83.04,1,3,At_Risk,2.0,At_Risk
+117,Home & Furniture,291.09,42.46,1,3,At_Risk,1.0,At_Risk
+118,Electronics,633.2,117.59,1,4,Champions,2.0,Potential
+119,Clothing & Apparel,177.32,37.76,1,5,At_Risk,2.0,Potential
+120,Clothing & Apparel,1337.52,479.64,3,1,High_Value,5.0,High_Value
+121,Clothing & Apparel,425.83,98.74,1,4,Champions,4.0,Champions
+121,Electronics,525.47,97.75,1,4,Champions,2.0,Potential
+122,Accessories,90.9,32.88,1,1,Lost,1.0,Lost
+123,Home & Furniture,945.7,131.55,2,3,Loyal,4.0,Loyal
+124,Accessories,449.18,197.96,2,3,Loyal,5.0,Loyal
+125,Clothing & Apparel,197.2,73.3,1,5,Potential,2.0,Potential
+126,Electronics,525.12,51.81,3,1,At_Risk,2.0,Lost
+127,Clothing & Apparel,137.54,32.91,1,5,At_Risk,1.0,At_Risk
+128,Clothing & Apparel,148.41,52.87,3,3,At_Risk,1.0,At_Risk
+129,Clothing & Apparel,1358.08,337.35,4,4,Champions,5.0,Champions
+130,Electronics,429.36,82.06,3,1,At_Risk,1.0,Lost
+131,Clothing & Apparel,1244.55,252.3,3,4,Champions,5.0,Champions
+132,Clothing & Apparel,103.84,29.73,1,1,Lost,1.0,Lost
+133,Clothing & Apparel,61.42,17.6,2,5,At_Risk,1.0,At_Risk
+134,Clothing & Apparel,49.97,21.83,1,2,Lost,1.0,Lost
+135,Home & Furniture,1243.11,422.5,3,4,Champions,4.0,Champions
+136,Accessories,341.34,121.82,3,1,Lost,4.0,High_Value
+137,Clothing & Apparel,43.54,10.18,2,4,At_Risk,1.0,At_Risk
+138,Clothing & Apparel,719.58,226.12,3,5,Champions,5.0,Champions
+139,Home & Furniture,2135.8,728.76,4,4,Champions,5.0,Champions
+140,Home & Furniture,1118.82,201.88,2,3,Loyal,4.0,Loyal
+141,Clothing & Apparel,538.64,166.28,2,3,Loyal,4.0,Loyal
+142,Clothing & Apparel,184.39,71.48,1,2,Lost,2.0,Lost
+143,Home & Furniture,897.23,308.5,1,3,Loyal,4.0,Loyal
+144,Accessories,428.1,141.17,2,1,At_Risk,5.0,High_Value
+145,Electronics,846.17,129.24,1,2,High_Value,3.0,At_Risk
+146,Home & Furniture,1238.92,349.09,4,1,High_Value,4.0,High_Value
+147,Clothing & Apparel,89.0,34.38,2,3,At_Risk,1.0,At_Risk
+148,Accessories,489.84,110.58,4,3,Loyal,5.0,Loyal
+149,Electronics,568.07,80.84,1,2,At_Risk,2.0,Lost
+150,Clothing & Apparel,168.88,60.29,2,2,Lost,2.0,Lost
+151,Home & Furniture,1009.89,129.3,3,3,Loyal,4.0,Loyal
+152,Electronics,911.64,114.18,2,4,Champions,3.0,Potential
+153,Home & Furniture,205.16,48.8,1,3,At_Risk,1.0,At_Risk
+154,Home & Furniture,475.05,159.26,1,5,Potential,2.0,Potential
+155,Clothing & Apparel,459.16,194.72,4,5,Potential,4.0,Champions
+156,Home & Furniture,539.57,185.75,1,4,Potential,2.0,Potential
+157,Home & Furniture,1119.68,160.65,2,5,Champions,4.0,Champions
+158,Clothing & Apparel,345.66,98.5,1,3,At_Risk,3.0,Loyal
+159,Clothing & Apparel,209.28,89.4,1,5,Potential,2.0,Potential
+160,Electronics,273.95,32.07,1,5,Potential,1.0,At_Risk
+161,Accessories,183.62,82.37,2,4,At_Risk,2.0,Potential
+162,Home & Furniture,824.04,168.8,2,1,High_Value,3.0,At_Risk
+163,Clothing & Apparel,299.99,86.72,1,5,Potential,3.0,Potential
+164,Clothing & Apparel,903.96,206.93,4,1,High_Value,5.0,High_Value
+165,Electronics,375.35,59.87,1,3,Loyal,1.0,At_Risk
+166,Home & Furniture,889.5,129.82,2,1,High_Value,4.0,High_Value
+167,Clothing & Apparel,246.9,105.8,1,5,Potential,2.0,Potential
+168,Accessories,248.14,72.99,1,2,Lost,4.0,High_Value
+169,Clothing & Apparel,157.62,53.47,1,2,Lost,2.0,Lost
+170,Electronics,1673.49,200.55,3,2,High_Value,4.0,High_Value
+171,Home & Furniture,204.48,53.58,2,4,Potential,1.0,At_Risk
+172,Electronics,458.31,59.48,1,1,At_Risk,2.0,Lost
+173,Accessories,213.02,56.16,2,1,Lost,3.0,At_Risk
+174,Electronics,893.09,89.23,1,5,Champions,3.0,Potential
+175,Clothing & Apparel,404.12,85.03,2,5,Potential,4.0,Champions
+176,Clothing & Apparel,114.01,48.32,1,4,At_Risk,1.0,At_Risk
+177,Clothing & Apparel,350.89,126.27,1,5,Potential,3.0,Potential
+178,Home & Furniture,888.77,132.95,1,1,High_Value,4.0,High_Value
+179,Clothing & Apparel,165.25,50.86,1,2,Lost,2.0,Lost
+180,Electronics,281.96,46.6,1,3,At_Risk,1.0,At_Risk
+181,Home & Furniture,1230.56,257.32,2,4,Champions,4.0,Champions
+182,Home & Furniture,1676.4,408.84,2,3,Loyal,5.0,Loyal
+183,Clothing & Apparel,306.36,102.58,3,3,At_Risk,3.0,Loyal
+184,Clothing & Apparel,297.2,105.5,1,2,High_Value,3.0,At_Risk
+184,Home & Furniture,433.52,128.58,1,2,High_Value,2.0,Lost
+185,Clothing & Apparel,215.7,83.62,3,5,Potential,2.0,Potential
+186,Clothing & Apparel,299.5,109.74,1,2,Lost,3.0,At_Risk
+187,Accessories,432.82,176.86,2,4,Potential,5.0,Champions
+188,Electronics,393.39,50.03,1,3,Loyal,1.0,At_Risk
+189,Accessories,371.6,103.9,2,3,Loyal,4.0,Loyal
+190,Clothing & Apparel,1271.55,317.23,3,2,High_Value,5.0,High_Value
+191,Accessories,95.57,34.24,1,1,Lost,1.0,Lost
+192,Electronics,867.95,71.12,1,4,Champions,3.0,Potential
+192,Home & Furniture,820.48,215.0,2,4,Champions,3.0,Potential
+193,Clothing & Apparel,645.6,256.89,3,4,Champions,4.0,Champions
+194,Accessories,865.2,364.53,5,5,Champions,5.0,Champions
+195,Electronics,227.68,42.63,2,1,Lost,1.0,Lost
+196,Electronics,533.26,84.81,1,1,At_Risk,2.0,Lost
+197,Electronics,1677.62,235.53,2,2,High_Value,4.0,High_Value
+198,Clothing & Apparel,126.53,35.37,1,1,Lost,1.0,Lost
+199,Accessories,187.96,57.37,2,4,At_Risk,3.0,Potential
+200,Home & Furniture,709.35,164.07,1,3,Loyal,3.0,Loyal
+201,Clothing & Apparel,38.21,16.76,1,2,Lost,1.0,Lost
+202,Electronics,701.19,91.25,1,1,High_Value,2.0,Lost
+203,Clothing & Apparel,27.0,5.54,1,4,At_Risk,1.0,At_Risk
+204,Clothing & Apparel,775.58,241.39,2,1,High_Value,5.0,High_Value
+205,Home & Furniture,722.62,145.36,1,4,Champions,3.0,Potential
+206,Clothing & Apparel,1815.3,644.51,6,4,Champions,5.0,Champions
+207,Home & Furniture,1190.2,258.48,2,5,Champions,4.0,Champions
+208,Home & Furniture,1080.56,242.31,4,5,Champions,4.0,Champions
+209,Home & Furniture,1159.26,189.81,2,4,Champions,4.0,Champions
+210,Home & Furniture,635.23,143.08,1,5,Champions,3.0,Potential
+211,Home & Furniture,2257.29,771.81,3,4,Champions,5.0,Champions
+212,Electronics,1032.18,205.81,2,5,Champions,4.0,Champions
+213,Accessories,253.79,102.36,1,5,Potential,4.0,Champions
+214,Accessories,330.36,129.95,2,4,Potential,4.0,Champions
+215,Clothing & Apparel,1170.68,325.96,4,3,Loyal,5.0,Loyal
+216,Accessories,192.11,80.43,1,1,Lost,3.0,At_Risk
+217,Accessories,112.72,39.1,1,2,Lost,1.0,Lost
+218,Clothing & Apparel,343.24,137.08,4,5,Potential,3.0,Potential
+219,Clothing & Apparel,1203.21,432.75,3,5,Champions,5.0,Champions
+220,Electronics,1181.12,132.09,2,3,Loyal,4.0,Loyal
+221,Electronics,910.08,143.96,6,5,Champions,3.0,Potential
+222,Clothing & Apparel,329.42,68.16,2,2,Lost,3.0,At_Risk
+223,Home & Furniture,1595.67,210.23,3,2,High_Value,5.0,High_Value
+224,Home & Furniture,753.89,177.22,1,5,Champions,3.0,Potential
+225,Home & Furniture,549.61,93.23,1,4,Potential,2.0,Potential
+226,Accessories,301.3,68.34,2,4,Champions,4.0,Champions
+226,Home & Furniture,1078.02,332.77,2,4,Champions,4.0,Champions
+227,Home & Furniture,644.16,192.91,4,3,Loyal,3.0,Loyal
+228,Accessories,59.01,27.6,1,1,Lost,1.0,Lost
+229,Clothing & Apparel,268.84,116.89,1,4,Potential,2.0,Potential
+230,Home & Furniture,2122.76,657.04,4,2,High_Value,5.0,High_Value
+231,Accessories,99.29,23.99,1,5,At_Risk,1.0,At_Risk
+232,Electronics,3424.95,399.82,3,1,High_Value,5.0,High_Value
+233,Electronics,1090.8,168.53,2,2,High_Value,4.0,High_Value
+234,Home & Furniture,56.57,9.76,1,3,At_Risk,1.0,At_Risk
+235,Electronics,308.8,57.86,1,4,Potential,1.0,At_Risk
+236,Clothing & Apparel,164.85,47.87,1,5,At_Risk,2.0,Potential
+237,Accessories,161.52,43.16,2,4,At_Risk,2.0,Potential
+238,Accessories,52.68,15.08,1,5,At_Risk,1.0,At_Risk
+239,Electronics,1841.55,349.34,3,3,Loyal,5.0,Loyal
+240,Accessories,132.76,42.96,1,3,At_Risk,2.0,At_Risk
+241,Electronics,3457.0,644.83,4,5,Champions,5.0,Champions
+242,Home & Furniture,397.3,99.01,2,2,At_Risk,2.0,Lost
+243,Accessories,349.56,76.01,2,5,Potential,4.0,Champions
+244,Clothing & Apparel,67.66,22.18,2,1,Lost,1.0,Lost
+245,Clothing & Apparel,616.26,130.97,2,5,Potential,4.0,Champions
+246,Electronics,710.68,135.66,4,1,High_Value,3.0,At_Risk
+247,Clothing & Apparel,129.8,27.97,2,4,At_Risk,1.0,At_Risk
+248,Electronics,422.67,83.46,1,4,Potential,1.0,At_Risk
+249,Clothing & Apparel,333.77,87.42,1,4,Potential,3.0,Potential
+250,Home & Furniture,1942.53,628.47,3,2,High_Value,5.0,High_Value
+251,Electronics,2507.97,235.95,3,1,High_Value,5.0,High_Value
+252,Clothing & Apparel,242.97,64.38,1,2,Lost,2.0,Lost
+253,Home & Furniture,1384.26,313.27,2,4,Champions,4.0,Champions
+254,Clothing & Apparel,635.72,191.38,2,3,Loyal,4.0,Loyal
+255,Clothing & Apparel,425.46,143.74,2,4,Potential,4.0,Champions
+256,Clothing & Apparel,429.33,174.49,1,5,Potential,4.0,Champions
+257,Electronics,590.81,103.03,1,2,At_Risk,2.0,Lost
+258,Home & Furniture,2369.91,632.02,3,5,Champions,5.0,Champions
+259,Clothing & Apparel,331.99,72.51,1,4,Potential,3.0,Potential
+260,Electronics,688.87,128.19,1,3,Loyal,2.0,At_Risk
+261,Clothing & Apparel,82.96,17.79,2,2,Lost,1.0,Lost
+262,Clothing & Apparel,603.16,209.75,2,2,At_Risk,4.0,High_Value
+263,Clothing & Apparel,630.62,190.43,2,4,Potential,4.0,Champions
+264,Accessories,139.42,50.25,2,2,Lost,2.0,Lost
+265,Home & Furniture,1780.12,464.44,2,1,High_Value,5.0,High_Value
+266,Clothing & Apparel,1006.92,260.43,3,4,Champions,5.0,Champions
+267,Electronics,717.48,107.1,2,2,High_Value,3.0,At_Risk
+268,Electronics,499.78,63.74,1,5,Potential,2.0,Potential
+269,Home & Furniture,324.31,64.38,1,5,Potential,1.0,At_Risk
+270,Electronics,631.97,76.32,1,3,Loyal,2.0,At_Risk
+271,Clothing & Apparel,526.08,151.57,2,5,Potential,4.0,Champions
+272,Electronics,689.46,60.73,2,2,High_Value,2.0,Lost
+273,Accessories,62.02,26.38,1,2,Lost,1.0,Lost
+274,Electronics,369.08,32.55,1,1,Lost,1.0,Lost
+275,Electronics,1944.78,261.56,2,5,Champions,5.0,Champions
+276,Clothing & Apparel,165.92,60.91,2,3,At_Risk,2.0,At_Risk
+277,Accessories,486.66,121.98,2,1,At_Risk,5.0,High_Value
+278,Electronics,644.29,60.66,1,1,High_Value,2.0,Lost
+279,Home & Furniture,624.32,179.05,1,5,Potential,3.0,Potential
+280,Accessories,166.5,45.95,1,5,At_Risk,2.0,Potential
+281,Electronics,673.4,75.61,2,5,Champions,2.0,Potential
+282,Home & Furniture,880.61,283.53,1,4,Champions,4.0,Champions
+283,Clothing & Apparel,343.96,82.84,2,4,Potential,3.0,Potential
+284,Clothing & Apparel,679.74,158.36,2,1,High_Value,4.0,High_Value
+285,Electronics,824.62,116.52,1,3,Loyal,3.0,Loyal
+286,Electronics,409.37,60.77,1,5,Potential,1.0,At_Risk
+287,Accessories,124.63,59.59,1,3,At_Risk,2.0,At_Risk
+288,Home & Furniture,790.08,202.11,1,4,Champions,3.0,Potential
+289,Clothing & Apparel,448.71,116.77,1,5,Potential,4.0,Champions
+290,Clothing & Apparel,213.45,80.97,1,4,Potential,2.0,Potential
+291,Home & Furniture,1662.98,321.96,2,1,High_Value,5.0,High_Value
+292,Accessories,399.1,136.23,2,3,Loyal,4.0,Loyal
+293,Home & Furniture,450.89,93.23,1,3,Loyal,2.0,At_Risk
+294,Clothing & Apparel,233.37,46.97,1,1,Lost,2.0,Lost
+295,Accessories,106.06,42.57,1,5,At_Risk,1.0,At_Risk
+296,Clothing & Apparel,300.92,98.13,4,3,At_Risk,3.0,Loyal
+297,Accessories,304.44,90.92,2,2,Lost,4.0,High_Value
+298,Electronics,1032.48,202.97,1,3,Loyal,4.0,Loyal
+299,Clothing & Apparel,80.64,31.78,2,1,Lost,1.0,Lost
+300,Home & Furniture,907.01,148.79,1,5,Champions,4.0,Champions
+301,Clothing & Apparel,396.39,163.01,1,4,Potential,4.0,Champions
+302,Electronics,2119.2,222.14,3,4,Champions,5.0,Champions
+303,Clothing & Apparel,157.02,46.76,1,2,Lost,2.0,Lost
+304,Electronics,843.51,110.89,1,1,High_Value,3.0,At_Risk
+305,Clothing & Apparel,468.9,140.95,5,4,Potential,4.0,Champions
+306,Clothing & Apparel,911.88,292.22,3,3,Loyal,5.0,Loyal
+307,Electronics,276.91,45.9,1,3,At_Risk,1.0,At_Risk
+308,Clothing & Apparel,350.28,145.58,2,4,Potential,3.0,Potential
+309,Electronics,384.21,57.5,1,5,Potential,1.0,At_Risk
+310,Clothing & Apparel,335.32,117.58,1,4,Potential,3.0,Potential
+311,Electronics,957.44,132.73,1,2,High_Value,3.0,At_Risk
+312,Home & Furniture,654.84,139.01,1,4,Champions,3.0,Potential
+313,Home & Furniture,681.47,174.23,1,2,High_Value,3.0,At_Risk
+314,Electronics,2090.64,269.95,4,2,High_Value,5.0,High_Value
+315,Home & Furniture,1134.39,348.73,1,2,High_Value,4.0,High_Value
+316,Accessories,63.17,27.29,1,1,Lost,1.0,Lost
+317,Electronics,555.24,56.34,1,1,At_Risk,2.0,Lost
+318,Electronics,1546.92,308.8,2,4,Champions,4.0,Champions
+319,Clothing & Apparel,63.85,26.95,1,2,Lost,1.0,Lost
+320,Accessories,72.11,33.39,1,4,At_Risk,1.0,At_Risk
+321,Electronics,281.1,26.75,1,5,Potential,1.0,At_Risk
+322,Accessories,365.72,132.18,2,4,Potential,4.0,Champions
+323,Accessories,244.86,87.38,3,5,Potential,3.0,Potential
+324,Clothing & Apparel,531.64,221.75,2,1,At_Risk,4.0,High_Value
+325,Accessories,117.62,21.65,2,4,At_Risk,1.0,At_Risk
+326,Home & Furniture,1084.94,144.77,2,2,High_Value,4.0,High_Value
+327,Clothing & Apparel,30.93,13.56,1,2,Lost,1.0,Lost
+328,Electronics,1132.54,186.91,1,1,High_Value,4.0,High_Value
+329,Clothing & Apparel,283.84,110.68,2,1,Lost,3.0,At_Risk
+330,Electronics,1050.06,145.85,2,4,Champions,4.0,Champions
+331,Electronics,1693.22,235.46,2,3,Loyal,4.0,Loyal
+332,Home & Furniture,621.4,153.98,1,1,At_Risk,3.0,At_Risk
+333,Accessories,122.05,35.71,1,3,At_Risk,1.0,At_Risk
+334,Home & Furniture,560.19,73.93,1,1,At_Risk,2.0,Lost
+335,Home & Furniture,522.04,135.84,1,3,Loyal,2.0,At_Risk
+336,Electronics,1737.4,258.42,4,3,Loyal,5.0,Loyal
+337,Clothing & Apparel,120.84,28.9,2,1,Lost,1.0,Lost
+338,Clothing & Apparel,91.24,39.99,1,2,Lost,1.0,Lost
+339,Accessories,935.64,361.94,4,3,Loyal,5.0,Loyal
+340,Electronics,719.78,90.72,2,5,Champions,3.0,Potential
+341,Clothing & Apparel,152.76,44.92,3,1,Lost,2.0,Lost
+342,Clothing & Apparel,2673.48,1171.48,6,3,Loyal,5.0,Loyal
+343,Clothing & Apparel,71.38,26.6,1,2,Lost,1.0,Lost
+344,Accessories,223.6,44.91,1,4,Potential,3.0,Potential
+345,Home & Furniture,654.45,129.51,1,2,High_Value,3.0,At_Risk
+346,Home & Furniture,430.77,116.16,1,5,Potential,2.0,Potential
+347,Clothing & Apparel,750.18,248.68,2,4,Champions,5.0,Champions
+348,Electronics,287.5,50.35,2,4,Potential,1.0,At_Risk
+349,Clothing & Apparel,291.61,91.17,1,2,Lost,3.0,At_Risk
+350,Clothing & Apparel,614.18,162.21,2,2,At_Risk,4.0,High_Value
+351,Accessories,428.08,150.19,2,3,Loyal,5.0,Loyal
+352,Clothing & Apparel,455.6,92.61,2,1,At_Risk,4.0,High_Value
+353,Clothing & Apparel,326.05,136.37,1,4,Potential,3.0,Potential
+354,Electronics,755.0,84.66,1,5,Champions,3.0,Potential
+355,Clothing & Apparel,352.44,107.94,1,5,Potential,3.0,Potential
+356,Electronics,2876.25,392.03,3,3,Loyal,5.0,Loyal
+357,Electronics,667.75,93.33,1,4,Champions,2.0,Potential
+358,Clothing & Apparel,155.42,35.96,2,2,Lost,2.0,Lost
+359,Home & Furniture,3306.84,1148.93,4,4,Champions,5.0,Champions
+360,Clothing & Apparel,101.48,29.24,2,1,Lost,1.0,Lost
+361,Clothing & Apparel,609.68,205.6,2,5,Potential,4.0,Champions
+362,Electronics,618.68,102.57,1,5,Potential,2.0,Potential
+363,Accessories,55.26,12.43,1,2,Lost,1.0,Lost
+364,Home & Furniture,1431.2,389.73,2,3,Loyal,4.0,Loyal
+365,Home & Furniture,3918.08,714.95,4,5,Champions,5.0,Champions
+366,Home & Furniture,153.73,41.35,1,2,Lost,1.0,Lost
+367,Clothing & Apparel,225.18,98.72,2,5,Champions,2.0,Potential
+367,Home & Furniture,2566.98,515.73,3,5,Champions,5.0,Champions
+368,Electronics,833.02,112.88,1,5,Champions,3.0,Potential
+369,Home & Furniture,441.62,124.76,1,2,At_Risk,2.0,Lost
+370,Electronics,625.5,105.79,2,3,Loyal,2.0,At_Risk
+371,Accessories,116.76,55.31,1,5,At_Risk,1.0,At_Risk
+372,Home & Furniture,1021.69,314.23,1,5,Champions,4.0,Champions
+373,Electronics,1712.98,274.82,2,2,High_Value,4.0,High_Value
+374,Accessories,223.14,53.54,2,3,At_Risk,3.0,Loyal
+375,Electronics,1839.68,180.92,2,2,High_Value,5.0,High_Value
+376,Electronics,204.66,22.67,1,2,Lost,1.0,Lost
+377,Clothing & Apparel,1675.9,655.64,5,5,Champions,5.0,Champions
+378,Accessories,171.54,41.15,1,4,At_Risk,2.0,Potential
+379,Accessories,251.08,98.15,4,3,Loyal,4.0,Loyal
+379,Clothing & Apparel,327.46,130.43,1,3,Loyal,3.0,Loyal
+380,Clothing & Apparel,833.24,223.04,2,3,Loyal,5.0,Loyal
+381,Clothing & Apparel,42.36,12.78,1,2,Lost,1.0,Lost
+382,Home & Furniture,932.68,256.02,2,5,Champions,4.0,Champions
+383,Accessories,529.62,167.68,3,2,At_Risk,5.0,High_Value
+384,Clothing & Apparel,152.08,47.27,1,5,At_Risk,2.0,Potential
+385,Clothing & Apparel,365.48,115.49,1,5,Champions,3.0,Potential
+385,Electronics,3668.56,441.79,5,5,Champions,5.0,Champions
+386,Clothing & Apparel,311.21,85.2,1,2,Lost,3.0,At_Risk
+387,Home & Furniture,904.66,188.15,2,1,High_Value,4.0,High_Value
+388,Home & Furniture,613.54,212.45,1,3,Loyal,3.0,Loyal
+389,Home & Furniture,461.82,125.38,1,5,Potential,2.0,Potential
+390,Clothing & Apparel,478.58,169.09,2,1,High_Value,4.0,High_Value
+390,Electronics,188.97,17.82,1,1,High_Value,1.0,Lost
+391,Home & Furniture,2463.48,320.05,4,1,High_Value,5.0,High_Value
+392,Clothing & Apparel,319.36,97.29,2,3,At_Risk,3.0,Loyal
+393,Home & Furniture,1179.98,407.07,2,5,Champions,4.0,Champions
+394,Electronics,917.64,89.48,1,1,High_Value,3.0,At_Risk
+395,Home & Furniture,3397.48,712.07,4,5,Champions,5.0,Champions
+396,Electronics,1407.42,243.97,2,5,Champions,4.0,Champions
+397,Accessories,391.12,101.88,2,3,Loyal,4.0,Loyal
+398,Clothing & Apparel,72.54,21.14,3,3,At_Risk,1.0,At_Risk
+399,Accessories,254.64,85.71,2,4,Potential,4.0,Champions
+400,Clothing & Apparel,192.25,70.37,1,1,Lost,2.0,Lost
+401,Accessories,203.25,96.36,1,5,Potential,3.0,Potential
+402,Electronics,1116.2,123.58,2,4,Champions,4.0,Champions
+403,Electronics,1537.47,289.25,3,2,High_Value,4.0,High_Value
+404,Home & Furniture,1629.52,323.25,2,3,Loyal,5.0,Loyal
+405,Electronics,438.4,54.53,2,2,At_Risk,2.0,Lost
+406,Home & Furniture,483.16,139.41,1,2,At_Risk,2.0,Lost
+407,Accessories,609.3,303.53,3,4,Potential,5.0,Champions
+408,Electronics,3842.12,377.44,4,1,High_Value,5.0,High_Value
+409,Home & Furniture,1319.24,412.3,2,4,Champions,4.0,Champions
+410,Clothing & Apparel,895.44,402.7,2,1,High_Value,5.0,High_Value
+411,Home & Furniture,273.75,88.91,1,2,Lost,1.0,Lost
+412,Home & Furniture,1626.24,354.33,3,5,Champions,5.0,Champions
+413,Clothing & Apparel,1240.08,372.91,3,5,Champions,5.0,Champions
+414,Clothing & Apparel,1389.6,560.19,3,3,Loyal,5.0,Loyal
+415,Electronics,2499.66,205.27,3,1,High_Value,5.0,High_Value
+416,Clothing & Apparel,647.58,173.41,2,3,Loyal,4.0,Loyal
+417,Clothing & Apparel,792.27,324.12,3,2,High_Value,5.0,High_Value
+418,Accessories,213.82,82.14,1,4,Potential,3.0,Potential
+419,Home & Furniture,940.42,220.59,2,1,High_Value,4.0,High_Value
+420,Clothing & Apparel,1409.73,442.3,3,3,Loyal,5.0,Loyal
+421,Clothing & Apparel,820.16,181.78,2,5,Champions,5.0,Champions
+421,Electronics,1903.0,264.38,3,5,Champions,5.0,Champions
+422,Clothing & Apparel,794.97,325.14,3,2,High_Value,5.0,High_Value
+423,Clothing & Apparel,638.06,196.7,2,2,High_Value,4.0,High_Value
+424,Electronics,891.18,175.06,2,5,Champions,3.0,Potential
+425,Electronics,321.55,50.73,1,5,Potential,1.0,At_Risk
+426,Home & Furniture,4094.95,940.67,5,1,High_Value,5.0,High_Value
+427,Accessories,137.56,39.52,2,1,Lost,2.0,Lost
+428,Clothing & Apparel,364.17,148.79000000000002,3,3,At_Risk,3.0,Loyal
+429,Clothing & Apparel,316.59,80.62,1,3,At_Risk,3.0,Loyal
+430,Home & Furniture,987.59,238.09,1,5,Champions,4.0,Champions
+431,Clothing & Apparel,730.36,177.65,2,3,Loyal,5.0,Loyal
+432,Home & Furniture,823.76,105.13,1,1,High_Value,3.0,At_Risk
+433,Electronics,699.39,84.24,1,3,Loyal,2.0,At_Risk
+434,Electronics,613.58,121.92,1,1,At_Risk,2.0,Lost
+435,Home & Furniture,673.42,120.96,2,5,Champions,3.0,Potential
+436,Clothing & Apparel,767.16,217.41,2,3,Loyal,5.0,Loyal
+437,Home & Furniture,4685.59,658.69,7,3,Loyal,5.0,Loyal
+438,Electronics,189.11,33.22,1,3,At_Risk,1.0,At_Risk
+439,Accessories,412.54,151.38,2,2,At_Risk,4.0,High_Value
+440,Electronics,4150.95,577.74,5,1,High_Value,5.0,High_Value
+441,Electronics,1002.56,127.28,1,4,Champions,4.0,Champions
+442,Accessories,712.05,237.24,3,4,Champions,5.0,Champions
+442,Electronics,2564.04,492.29,3,4,Champions,5.0,Champions
+443,Clothing & Apparel,673.14,173.58,2,5,Champions,4.0,Champions
+444,Home & Furniture,255.1,62.82,1,2,Lost,1.0,Lost
+445,Accessories,297.82,144.56,2,2,Lost,4.0,High_Value
+446,Accessories,145.75,59.13,1,4,At_Risk,2.0,Potential
+447,Clothing & Apparel,499.18,204.29,2,4,Potential,4.0,Champions
+448,Clothing & Apparel,92.04,31.68,1,4,At_Risk,1.0,At_Risk
+449,Accessories,227.22,85.27,3,2,Lost,3.0,At_Risk
+450,Electronics,1029.63,135.71,3,3,Loyal,4.0,Loyal
+451,Home & Furniture,1877.25,380.55,5,2,High_Value,5.0,High_Value
+452,Accessories,289.56,105.86,2,2,Lost,4.0,High_Value
+453,Clothing & Apparel,585.66,191.35,2,3,Loyal,4.0,Loyal
+454,Home & Furniture,239.92,56.91,1,3,At_Risk,1.0,At_Risk
+455,Electronics,246.9,39.01,1,4,Potential,1.0,At_Risk
+456,Home & Furniture,1064.4899999999998,248.39,2,5,Champions,4.0,Champions
+457,Clothing & Apparel,344.72,149.52,4,5,Potential,3.0,Potential
+458,Home & Furniture,953.44,200.51,2,1,High_Value,4.0,High_Value
+459,Electronics,673.14,58.78,1,5,Champions,2.0,Potential
+460,Accessories,242.66,99.52,2,2,Lost,3.0,At_Risk
+461,Electronics,841.6,104.96,1,2,High_Value,3.0,At_Risk
+462,Home & Furniture,766.67,99.43,1,4,Champions,3.0,Potential
+463,Electronics,2155.12,389.27,2,4,Champions,5.0,Champions
+464,Electronics,2961.99,336.92,3,4,Champions,5.0,Champions
+465,Clothing & Apparel,168.35,55.33,1,3,At_Risk,2.0,At_Risk
+466,Accessories,246.07,108.97,1,1,Lost,4.0,High_Value
+467,Home & Furniture,1802.43,340.08,3,3,Loyal,5.0,Loyal
+468,Home & Furniture,1160.14,376.38,2,2,High_Value,4.0,High_Value
+469,Home & Furniture,263.58,71.57,1,3,At_Risk,1.0,At_Risk
+470,Accessories,141.02,48.27,1,5,At_Risk,2.0,Potential
+471,Clothing & Apparel,94.04,38.94,1,4,At_Risk,1.0,At_Risk
+472,Electronics,1151.62,137.42,2,4,Champions,4.0,Champions
+473,Home & Furniture,1347.66,349.93,2,4,Champions,4.0,Champions
+474,Electronics,903.09,172.72,1,4,Champions,3.0,Potential
+475,Clothing & Apparel,321.91,77.19,1,5,Potential,3.0,Potential
+476,Clothing & Apparel,204.37,74.04,1,5,Champions,2.0,Potential
+476,Electronics,993.84,176.14,1,5,Champions,4.0,Champions
+477,Accessories,696.35,212.18,5,2,High_Value,5.0,High_Value
+478,Clothing & Apparel,165.73,48.67,1,5,Champions,2.0,Potential
+478,Electronics,829.77,130.26,3,5,Champions,3.0,Potential
+479,Clothing & Apparel,152.7,66.44,1,1,Lost,2.0,Lost
+480,Clothing & Apparel,1016.4,282.42,4,2,High_Value,5.0,High_Value
+481,Electronics,1212.64,200.65,2,2,High_Value,4.0,High_Value
+482,Home & Furniture,774.78,136.56,1,1,High_Value,3.0,At_Risk
+483,Accessories,197.96,79.75,2,4,Potential,3.0,Potential
+484,Clothing & Apparel,105.52,30.9,1,4,At_Risk,1.0,At_Risk
+485,Accessories,474.76,115.54,2,5,Potential,5.0,Champions
+486,Accessories,113.51,25.92,1,3,At_Risk,1.0,At_Risk
+487,Electronics,127.64,16.97,1,4,Potential,1.0,At_Risk
+487,Home & Furniture,120.54,26.63,1,4,Potential,1.0,At_Risk
+488,Accessories,291.9,88.08,2,2,Lost,4.0,High_Value
+489,Clothing & Apparel,351.3,142.21,1,2,Lost,3.0,At_Risk
+490,Clothing & Apparel,61.63,24.49,1,3,At_Risk,1.0,At_Risk
+491,Clothing & Apparel,161.11,48.34,1,5,At_Risk,2.0,Potential
+492,Home & Furniture,411.15,74.36,1,3,Loyal,2.0,At_Risk
+493,Accessories,88.29,28.48,1,5,At_Risk,1.0,At_Risk
+494,Home & Furniture,910.59,126.93,1,2,High_Value,4.0,High_Value
+495,Clothing & Apparel,275.56,123.8,2,5,Potential,3.0,Potential
+496,Clothing & Apparel,392.41,108.07,1,5,Potential,3.0,Potential
+497,Accessories,274.6,66.42,2,5,Potential,4.0,Champions
+498,Clothing & Apparel,568.36,247.0,2,3,Loyal,4.0,Loyal
+499,Clothing & Apparel,158.77,49.78,1,2,Lost,2.0,Lost
+500,Home & Furniture,2612.16,740.33,3,1,High_Value,5.0,High_Value
+501,Clothing & Apparel,55.3,16.71,2,1,Lost,1.0,Lost
+502,Electronics,684.64,88.21,2,4,Champions,2.0,Potential
+503,Clothing & Apparel,276.85,68.08,1,1,Lost,3.0,At_Risk
+504,Home & Furniture,642.76,77.96,1,1,High_Value,3.0,At_Risk
+505,Home & Furniture,937.22,290.69,1,4,Champions,4.0,Champions
+506,Accessories,211.68,38.98,1,2,Lost,3.0,At_Risk
+507,Clothing & Apparel,1636.6,609.79,4,5,Champions,5.0,Champions
+508,Electronics,1360.44,111.01,2,1,High_Value,4.0,High_Value
+509,Clothing & Apparel,95.65,24.19,1,4,At_Risk,1.0,At_Risk
+510,Electronics,1050.0,141.59,2,3,Loyal,4.0,Loyal
+511,Electronics,685.75,130.12,1,5,Champions,2.0,Potential
+512,Home & Furniture,772.01,122.16,1,2,High_Value,3.0,At_Risk
+513,Home & Furniture,750.29,121.93,1,2,High_Value,3.0,At_Risk
+514,Accessories,387.6,105.69,2,3,Loyal,4.0,Loyal
+515,Home & Furniture,440.14,129.56,2,5,Potential,2.0,Potential
+516,Electronics,1001.33,168.59,1,5,Champions,4.0,Champions
+517,Clothing & Apparel,83.62,22.19,1,4,At_Risk,1.0,At_Risk
+518,Clothing & Apparel,313.16,91.8,1,4,Potential,3.0,Potential
+519,Home & Furniture,1691.04,363.76,3,4,Champions,5.0,Champions
+520,Electronics,1866.54,257.08,3,1,High_Value,5.0,High_Value
+521,Accessories,126.21,30.47,1,2,Lost,2.0,Lost
+522,Home & Furniture,148.46,32.45,1,1,Lost,1.0,Lost
+523,Electronics,645.75,98.56,1,4,Champions,2.0,Potential
+524,Home & Furniture,610.4,75.09,1,4,Potential,3.0,Potential
+525,Electronics,2336.64,254.18,3,3,Loyal,5.0,Loyal
+526,Electronics,1559.2,214.92,5,5,Champions,4.0,Champions
+527,Home & Furniture,824.86,196.77,2,3,Loyal,3.0,Loyal
+528,Electronics,931.55,110.02,1,5,Champions,3.0,Potential
+529,Accessories,208.96,63.58,4,4,Potential,3.0,Potential
+530,Accessories,177.9,88.07,1,1,Lost,2.0,Lost
+531,Home & Furniture,1135.02,145.81,2,1,High_Value,4.0,High_Value
+532,Clothing & Apparel,329.51,102.5,1,5,Potential,3.0,Potential
+533,Accessories,55.14,10.48,1,5,Potential,1.0,At_Risk
+533,Clothing & Apparel,416.76,142.44,2,5,Potential,4.0,Champions
+534,Clothing & Apparel,405.9,143.14,2,3,Loyal,4.0,Loyal
+535,Home & Furniture,270.72,71.51,1,2,Lost,1.0,Lost
+536,Electronics,853.17,96.11,1,3,Loyal,3.0,Loyal
+537,Accessories,202.14,57.24,1,5,Potential,3.0,Potential
+538,Clothing & Apparel,270.38,69.69,1,2,Lost,2.0,Lost
+539,Accessories,178.26,50.16,2,4,Potential,2.0,Potential
+539,Home & Furniture,184.05,49.38,1,4,Potential,1.0,At_Risk
+540,Electronics,311.93,38.45,1,3,At_Risk,1.0,At_Risk
+541,Electronics,615.21,118.92,1,3,Loyal,2.0,At_Risk
+542,Electronics,461.37,41.63,1,2,At_Risk,2.0,Lost
+543,Clothing & Apparel,393.06,175.42,2,3,Loyal,3.0,Loyal
+544,Accessories,142.92,53.29,2,2,Lost,2.0,Lost
+545,Accessories,342.56,144.98,2,5,Potential,4.0,Champions
+546,Electronics,3121.08,267.76,4,4,Champions,5.0,Champions
+547,Accessories,152.1,50.52,1,2,Lost,2.0,Lost
+548,Electronics,3947.64,494.67,4,2,High_Value,5.0,High_Value
+549,Home & Furniture,206.7,39.44,1,5,Potential,1.0,At_Risk
+550,Clothing & Apparel,1767.8,675.74,5,5,Champions,5.0,Champions
+551,Electronics,2020.78,231.41,2,2,High_Value,5.0,High_Value
+552,Clothing & Apparel,1326.57,512.73,3,4,Champions,5.0,Champions
+553,Clothing & Apparel,225.26,87.35,1,1,Lost,2.0,Lost
+554,Home & Furniture,883.05,162.27,1,2,High_Value,4.0,High_Value
+555,Home & Furniture,881.22,134.65,2,4,Champions,4.0,Champions
+556,Accessories,214.56,65.94,2,2,Lost,3.0,At_Risk
+557,Accessories,66.34,28.51,1,5,Champions,1.0,At_Risk
+557,Home & Furniture,669.31,134.43,1,5,Champions,3.0,Potential
+558,Electronics,1818.78,244.88,2,3,Loyal,5.0,Loyal
+559,Accessories,776.04,144.67,3,2,High_Value,5.0,High_Value
+560,Clothing & Apparel,214.9,84.71,2,4,Potential,2.0,Potential
+561,Accessories,67.47,19.98,1,4,At_Risk,1.0,At_Risk
+562,Electronics,731.12,66.03,1,3,Loyal,3.0,Loyal
+563,Home & Furniture,336.18,90.3,2,4,Potential,1.0,At_Risk
+564,Clothing & Apparel,258.47,98.81,1,1,Lost,2.0,Lost
+565,Clothing & Apparel,423.07,127.3,1,5,Potential,4.0,Champions
+566,Clothing & Apparel,459.46,124.42,2,4,Potential,4.0,Champions
+567,Clothing & Apparel,990.48,365.68,3,1,High_Value,5.0,High_Value
+568,Clothing & Apparel,81.61,23.27,1,1,Lost,1.0,Lost
+569,Clothing & Apparel,496.38,172.88,2,3,Loyal,4.0,Loyal
+570,Clothing & Apparel,1335.12,582.17,3,4,Champions,5.0,Champions
+571,Clothing & Apparel,234.39,89.17,3,2,Lost,2.0,Lost
+572,Clothing & Apparel,626.88,160.58,2,4,Potential,4.0,Champions
+573,Electronics,106.63,12.05,1,4,At_Risk,1.0,At_Risk
+574,Clothing & Apparel,498.7,168.46,2,4,Potential,4.0,Champions
+575,Clothing & Apparel,313.1,85.73,2,4,Potential,3.0,Potential
+576,Clothing & Apparel,972.88,324.42,4,5,Champions,5.0,Champions
+577,Home & Furniture,1124.88,204.33,2,1,High_Value,4.0,High_Value
+578,Accessories,696.93,154.52,3,2,High_Value,5.0,High_Value
+579,Home & Furniture,1007.61,264.84,3,4,Champions,4.0,Champions
+580,Clothing & Apparel,757.34,220.94,2,2,High_Value,5.0,High_Value
+581,Clothing & Apparel,800.86,169.09,2,1,High_Value,5.0,High_Value
+582,Home & Furniture,1141.98,286.53,3,5,Champions,4.0,Champions
+583,Electronics,222.83,43.6,1,5,Potential,1.0,At_Risk
+584,Electronics,1516.98,298.4,3,3,Loyal,4.0,Loyal
+585,Clothing & Apparel,739.7,264.83,2,4,Champions,5.0,Champions
+586,Home & Furniture,947.05,257.32,1,2,High_Value,4.0,High_Value
+587,Home & Furniture,396.08,55.86,2,3,Loyal,2.0,At_Risk
+588,Clothing & Apparel,873.72,302.52,6,2,High_Value,5.0,High_Value
+589,Electronics,379.38,42.5,1,3,Loyal,1.0,At_Risk
+590,Clothing & Apparel,332.76,128.3,1,5,Champions,3.0,Potential
+590,Electronics,1391.76,214.3,2,5,Champions,4.0,Champions
+591,Home & Furniture,830.44,253.93,1,3,Loyal,3.0,Loyal
+592,Clothing & Apparel,296.03,63.19,1,5,Potential,3.0,Potential
+593,Home & Furniture,1068.64,334.95,2,5,Champions,4.0,Champions
+594,Accessories,68.03,15.41,1,2,Lost,1.0,Lost
+595,Home & Furniture,246.42,58.18,1,1,Lost,1.0,Lost
+596,Home & Furniture,2060.0,514.09,4,5,Champions,5.0,Champions
+597,Home & Furniture,263.09,64.89,1,2,Lost,1.0,Lost
+598,Accessories,692.88,339.44,3,1,High_Value,5.0,High_Value
+599,Home & Furniture,1571.54,503.55,2,4,Champions,5.0,Champions
+600,Electronics,975.75,185.95,3,1,High_Value,3.0,At_Risk
+601,Electronics,834.8,125.91,1,2,High_Value,3.0,At_Risk
+602,Electronics,395.45,54.19,1,1,At_Risk,1.0,Lost
+603,Home & Furniture,154.71,42.8,1,4,At_Risk,1.0,At_Risk
+604,Home & Furniture,1946.7,633.8,3,3,Loyal,5.0,Loyal
+605,Accessories,187.17,88.32,3,3,At_Risk,3.0,Loyal
+606,Home & Furniture,637.93,160.52,1,1,High_Value,3.0,At_Risk
+607,Clothing & Apparel,86.98,29.77,1,1,Lost,1.0,Lost
+608,Home & Furniture,710.08,243.46,1,3,Loyal,3.0,Loyal
+609,Clothing & Apparel,211.74,72.37,1,3,At_Risk,2.0,At_Risk
+610,Clothing & Apparel,133.51,38.0,1,2,Lost,1.0,Lost
+611,Accessories,204.14,80.64,1,5,Potential,3.0,Potential
+612,Electronics,320.04,38.14,3,5,Potential,1.0,At_Risk
+613,Clothing & Apparel,734.94,296.35,2,4,Champions,5.0,Champions
+614,Home & Furniture,1175.64,326.64,3,5,Champions,4.0,Champions
+615,Clothing & Apparel,305.68,63.49,2,2,Lost,3.0,At_Risk
+616,Electronics,642.92,73.07,1,5,Champions,2.0,Potential
+617,Clothing & Apparel,178.39,38.32,1,3,At_Risk,2.0,At_Risk
+618,Accessories,323.28,92.29,3,3,At_Risk,4.0,Loyal
+619,Electronics,493.72,87.43,4,5,Potential,2.0,Potential
+620,Clothing & Apparel,648.3,198.52,2,2,High_Value,4.0,High_Value
+621,Clothing & Apparel,319.27,89.75,1,5,Potential,3.0,Potential
+622,Accessories,212.95,39.21,1,5,Champions,3.0,Potential
+622,Home & Furniture,1700.5,307.96,2,5,Champions,5.0,Champions
+623,Home & Furniture,4547.7,1556.47,5,2,High_Value,5.0,High_Value
+624,Home & Furniture,1561.04,527.82,2,4,Champions,5.0,Champions
+625,Accessories,172.34,75.1,1,2,Lost,2.0,Lost
+625,Clothing & Apparel,81.03,33.27,1,2,Lost,1.0,Lost
+626,Accessories,241.03,73.44,1,3,At_Risk,3.0,Loyal
+627,Electronics,3045.75,555.47,3,2,High_Value,5.0,High_Value
+628,Clothing & Apparel,517.38,152.94,2,2,At_Risk,4.0,High_Value
+629,Accessories,205.62,43.93,1,2,Lost,3.0,At_Risk
+630,Home & Furniture,818.16,180.58,3,5,Champions,3.0,Potential
+631,Accessories,127.41,35.05,1,3,At_Risk,2.0,At_Risk
+632,Electronics,366.75,52.17,1,5,Potential,1.0,At_Risk
+633,Home & Furniture,734.26,104.29,2,3,Loyal,3.0,Loyal
+634,Home & Furniture,343.13,103.8,1,2,Lost,2.0,Lost
+635,Home & Furniture,115.71,29.52,1,3,At_Risk,1.0,At_Risk
+636,Home & Furniture,743.81,114.68,1,4,Champions,3.0,Potential
+637,Home & Furniture,617.1,169.58,3,2,At_Risk,3.0,At_Risk
+638,Clothing & Apparel,107.15,24.49,1,2,Lost,1.0,Lost
+639,Electronics,1011.6,119.32,1,2,High_Value,4.0,High_Value
+640,Electronics,697.33,119.91,1,3,Loyal,2.0,At_Risk
+641,Accessories,159.74,52.96,2,3,At_Risk,2.0,At_Risk
+642,Accessories,219.58,96.01,1,1,Lost,3.0,At_Risk
+643,Clothing & Apparel,1303.24,430.1,4,3,Loyal,5.0,Loyal
+644,Clothing & Apparel,460.2,120.72,3,3,Loyal,4.0,Loyal
+645,Clothing & Apparel,273.94,83.87,1,1,Lost,3.0,At_Risk
+646,Electronics,1864.58,226.96,2,1,High_Value,5.0,High_Value
+647,Electronics,2702.68,416.31,4,3,Loyal,5.0,Loyal
+648,Electronics,1219.02,140.42,2,1,High_Value,4.0,High_Value
+649,Home & Furniture,553.39,103.27,1,1,At_Risk,2.0,Lost
+650,Home & Furniture,603.02,89.49,1,4,Potential,3.0,Potential
+651,Home & Furniture,151.39,47.08,1,5,At_Risk,1.0,At_Risk
+652,Electronics,1469.24,208.1,2,2,High_Value,4.0,High_Value
+653,Clothing & Apparel,113.72,25.91,1,2,Lost,1.0,Lost
+654,Home & Furniture,556.88,73.05,2,4,Potential,2.0,Potential
+655,Home & Furniture,1109.92,261.59,2,1,High_Value,4.0,High_Value
+656,Accessories,222.26,107.86,2,4,Potential,3.0,Potential
+657,Accessories,213.18,56.5,1,1,Lost,3.0,At_Risk
+658,Accessories,988.04,208.1,4,1,High_Value,5.0,High_Value
+659,Accessories,426.88,131.19,2,4,Potential,5.0,Champions
+660,Electronics,768.22,132.18,1,5,Champions,3.0,Potential
+661,Clothing & Apparel,94.92,33.06,1,2,Lost,1.0,Lost
+662,Electronics,2408.8,379.91,2,2,High_Value,5.0,High_Value
+663,Electronics,385.74,36.02,1,2,At_Risk,1.0,Lost
+664,Clothing & Apparel,855.16,314.92,2,5,Champions,5.0,Champions
+665,Electronics,1137.9,187.64,2,4,Champions,4.0,Champions
+666,Electronics,671.84,59.73,2,2,High_Value,2.0,Lost
+667,Clothing & Apparel,438.55,195.28,1,3,Loyal,4.0,Loyal
+668,Electronics,1658.82,245.19,2,4,Champions,4.0,Champions
+669,Electronics,124.85,22.27,1,4,At_Risk,1.0,At_Risk
+670,Electronics,125.78,20.59,1,1,Lost,1.0,Lost
+671,Clothing & Apparel,900.28,400.05,2,2,High_Value,5.0,High_Value
+672,Home & Furniture,1179.7,151.89,2,1,High_Value,4.0,High_Value
+673,Electronics,4494.8,424.26,4,3,Loyal,5.0,Loyal
+674,Clothing & Apparel,534.78,138.07,2,3,Loyal,4.0,Loyal
+675,Clothing & Apparel,176.08,44.24,2,2,Lost,2.0,Lost
+676,Clothing & Apparel,692.48,172.62,4,2,High_Value,5.0,High_Value
+677,Electronics,2167.88,423.36,2,2,High_Value,5.0,High_Value
+678,Clothing & Apparel,340.45,95.21,1,1,Lost,3.0,At_Risk
+679,Clothing & Apparel,1017.81,250.99,3,5,Champions,5.0,Champions
+680,Accessories,443.96,160.25,2,3,Loyal,5.0,Loyal
+681,Electronics,2819.73,534.77,3,2,High_Value,5.0,High_Value
+682,Home & Furniture,225.57,76.53,1,5,Potential,1.0,At_Risk
+683,Home & Furniture,137.27,32.19,1,3,At_Risk,1.0,At_Risk
+684,Electronics,1864.56,299.18,2,2,High_Value,5.0,High_Value
+685,Electronics,365.8,46.5,1,4,Potential,1.0,At_Risk
+686,Home & Furniture,288.02,100.22,2,3,At_Risk,1.0,At_Risk
+687,Electronics,1290.65,215.69,1,2,High_Value,4.0,High_Value
+688,Electronics,958.06,87.07,1,1,High_Value,3.0,At_Risk
+689,Electronics,619.45,91.56,1,4,Potential,2.0,Potential
+690,Clothing & Apparel,386.58,154.93,1,5,Potential,3.0,Potential
+691,Home & Furniture,992.28,252.97,2,4,Champions,4.0,Champions
+692,Clothing & Apparel,420.24,132.74,4,5,Potential,4.0,Champions
+693,Clothing & Apparel,168.05,62.92,1,1,Lost,2.0,Lost
+694,Electronics,3263.6800000000003,333.08,4,3,Loyal,5.0,Loyal
+695,Electronics,437.13,72.1,1,4,Potential,2.0,Potential
+696,Home & Furniture,225.83,39.79,1,4,Potential,1.0,At_Risk
+697,Electronics,3777.06,559.92,3,4,Champions,5.0,Champions
+698,Electronics,1718.14,260.93,2,5,Champions,4.0,Champions
+699,Home & Furniture,70.53,17.35,1,3,At_Risk,1.0,At_Risk
+700,Electronics,2641.62,372.9,3,4,Champions,5.0,Champions
+700,Home & Furniture,139.19,21.17,1,4,Champions,1.0,At_Risk
+701,Electronics,813.56,123.55,2,2,High_Value,3.0,At_Risk
+702,Clothing & Apparel,169.78,53.7,1,2,Lost,2.0,Lost
+703,Clothing & Apparel,205.1,51.4,1,2,Lost,2.0,Lost
+704,Electronics,4790.1,449.51,5,2,High_Value,5.0,High_Value
+705,Home & Furniture,769.61,145.09,1,2,High_Value,3.0,At_Risk
+706,Clothing & Apparel,111.26,27.75,1,4,At_Risk,1.0,At_Risk
+707,Accessories,103.84,18.72,2,2,Lost,1.0,Lost
+708,Clothing & Apparel,786.56,271.51,2,5,Champions,5.0,Champions
+709,Electronics,3177.12,616.89,3,2,High_Value,5.0,High_Value
+710,Home & Furniture,817.37,283.17,1,4,Champions,3.0,Potential
+711,Electronics,641.28,95.54,1,3,Loyal,2.0,At_Risk
+712,Clothing & Apparel,113.21,43.79,1,2,Lost,1.0,Lost
+713,Home & Furniture,188.11,26.97,1,4,At_Risk,1.0,At_Risk
+714,Clothing & Apparel,173.61,48.76,1,4,At_Risk,2.0,Potential
+715,Home & Furniture,1191.62,233.44,2,3,Loyal,4.0,Loyal
+716,Accessories,108.3,41.56,1,2,Lost,1.0,Lost
+717,Home & Furniture,899.52,123.46,3,2,High_Value,4.0,High_Value
+718,Accessories,77.96,25.57,1,3,At_Risk,1.0,At_Risk
+719,Accessories,618.21,147.47,3,5,Potential,5.0,Champions
+720,Clothing & Apparel,242.29,76.43,1,5,Potential,2.0,Potential
+721,Electronics,544.36,81.3,2,1,At_Risk,2.0,Lost
+722,Home & Furniture,659.1,111.83,1,3,Loyal,3.0,Loyal
+723,Electronics,420.54,82.96,1,2,At_Risk,1.0,Lost
+724,Clothing & Apparel,445.34,98.04,2,5,Potential,4.0,Champions
+725,Home & Furniture,656.54,153.92,2,1,High_Value,3.0,At_Risk
+726,Home & Furniture,748.54,195.89,1,1,High_Value,3.0,At_Risk
+727,Home & Furniture,210.14,35.87,1,3,At_Risk,1.0,At_Risk
+728,Accessories,363.16,71.78,2,3,Loyal,4.0,Loyal
+728,Electronics,614.17,76.03,1,3,Loyal,2.0,At_Risk
+729,Home & Furniture,654.68,165.21,1,2,High_Value,3.0,At_Risk
+730,Accessories,265.48,82.3,2,2,Lost,4.0,High_Value
+731,Clothing & Apparel,788.7,331.46,3,5,Champions,5.0,Champions
+732,Accessories,341.86,164.58,2,4,Potential,4.0,Champions
+733,Electronics,1240.78,114.15,2,2,High_Value,4.0,High_Value
+734,Accessories,83.53,15.7,1,3,At_Risk,1.0,At_Risk
+734,Clothing & Apparel,263.43,75.96,1,3,At_Risk,2.0,At_Risk
+735,Electronics,489.73,48.92,1,4,Potential,2.0,Potential
+736,Electronics,5093.7,954.49,5,1,High_Value,5.0,High_Value
+737,Home & Furniture,251.1,85.73,1,1,Lost,1.0,Lost
+738,Clothing & Apparel,189.94,38.37,2,3,At_Risk,2.0,At_Risk
+739,Electronics,3576.36,668.4,4,2,High_Value,5.0,High_Value
+740,Accessories,306.81,126.87,3,2,Lost,4.0,High_Value
+741,Home & Furniture,1092.48,365.09,4,1,High_Value,4.0,High_Value
+742,Clothing & Apparel,330.18,142.59,1,5,Potential,3.0,Potential
+743,Accessories,395.42,98.49,2,1,At_Risk,4.0,High_Value
+744,Clothing & Apparel,94.25,25.53,1,4,At_Risk,1.0,At_Risk
+745,Clothing & Apparel,39.56,9.16,2,4,At_Risk,1.0,At_Risk
+746,Home & Furniture,2008.78,360.44,2,2,High_Value,5.0,High_Value
+747,Clothing & Apparel,929.78,190.12,2,4,Champions,5.0,Champions
+748,Home & Furniture,398.32,81.8,2,1,At_Risk,2.0,Lost
+749,Electronics,148.75,20.55,1,4,At_Risk,1.0,At_Risk
+750,Accessories,157.08,60.96,2,3,At_Risk,2.0,At_Risk
+751,Electronics,982.18,160.02,2,3,Loyal,4.0,Loyal
+752,Accessories,172.6,33.43,1,2,Lost,2.0,Lost
+753,Home & Furniture,1964.68,424.8,4,4,Champions,5.0,Champions
+754,Clothing & Apparel,709.34,262.75,2,5,Champions,5.0,Champions
+755,Clothing & Apparel,123.59,37.1,1,3,At_Risk,1.0,At_Risk
+756,Clothing & Apparel,376.67,129.38,1,1,At_Risk,3.0,At_Risk
+757,Clothing & Apparel,230.15,62.45,1,1,Lost,2.0,Lost
+758,Home & Furniture,1528.8,523.68,2,3,Loyal,5.0,Loyal
+759,Clothing & Apparel,367.34,110.87,1,5,Potential,3.0,Potential
+760,Home & Furniture,799.47,150.0,1,2,High_Value,3.0,At_Risk
+761,Clothing & Apparel,280.46,83.44,2,1,Lost,3.0,At_Risk
+762,Home & Furniture,690.6,231.42,1,3,Loyal,3.0,Loyal
+763,Home & Furniture,69.58,14.39,1,4,At_Risk,1.0,At_Risk
+764,Electronics,1857.09,213.74,3,4,Champions,5.0,Champions
+765,Electronics,192.23,18.77,1,1,Lost,1.0,Lost
+766,Clothing & Apparel,162.64,69.14,1,4,At_Risk,2.0,Potential
+767,Home & Furniture,288.29,94.39,1,1,Lost,1.0,Lost
+768,Clothing & Apparel,491.22,177.1,3,3,Loyal,4.0,Loyal
+769,Electronics,463.38,70.21,2,1,At_Risk,2.0,Lost
+770,Home & Furniture,289.84,35.79,1,4,Potential,1.0,At_Risk
+771,Accessories,137.24,25.22,2,2,Lost,2.0,Lost
+772,Electronics,402.04,58.15,1,2,At_Risk,1.0,Lost
+773,Clothing & Apparel,745.8,189.04,2,4,Champions,5.0,Champions
+774,Electronics,739.66,100.18,1,5,Champions,3.0,Potential
+775,Electronics,661.74,85.82,2,5,Champions,2.0,Potential
+776,Clothing & Apparel,581.52,160.91,4,1,At_Risk,4.0,High_Value
+777,Electronics,1295.09,153.75,1,1,High_Value,4.0,High_Value
+778,Home & Furniture,827.06,255.84,2,2,High_Value,3.0,At_Risk
+779,Accessories,49.45,15.49,1,3,At_Risk,1.0,At_Risk
+780,Electronics,1572.16,229.03,2,1,High_Value,4.0,High_Value
+781,Electronics,1086.32,214.35,2,2,High_Value,4.0,High_Value
+782,Electronics,3741.12,341.33,4,5,Champions,5.0,Champions
+783,Electronics,551.95,83.5,1,5,Potential,2.0,Potential
+784,Clothing & Apparel,247.7,97.14,1,5,Potential,2.0,Potential
+785,Electronics,1025.94,182.14,3,2,High_Value,4.0,High_Value
+786,Clothing & Apparel,395.71,82.05,1,2,At_Risk,4.0,High_Value
+787,Clothing & Apparel,88.85,36.21,1,1,Lost,1.0,Lost
+788,Electronics,1453.74,239.63,2,5,Champions,4.0,Champions
+789,Clothing & Apparel,380.92,114.79,2,3,Loyal,3.0,Loyal
+790,Clothing & Apparel,220.82,97.51,1,2,Lost,2.0,Lost
+791,Clothing & Apparel,117.32,39.35,2,5,At_Risk,1.0,At_Risk
+792,Electronics,809.87,149.87,1,1,High_Value,3.0,At_Risk
+793,Home & Furniture,3889.2,1033.45,7,5,Champions,5.0,Champions
+794,Accessories,96.49,37.29,1,1,Lost,1.0,Lost
+795,Accessories,217.72,65.05,1,1,Lost,3.0,At_Risk
+796,Electronics,775.98,135.27,1,3,Loyal,3.0,Loyal
+797,Electronics,1382.7,241.2,2,3,Loyal,4.0,Loyal
+798,Clothing & Apparel,235.67,102.09,1,2,Lost,2.0,Lost
+799,Electronics,258.51,30.66,1,5,Potential,1.0,At_Risk
+800,Home & Furniture,1651.24,405.06,4,5,Champions,5.0,Champions
+801,Electronics,649.72,129.05,4,1,High_Value,2.0,Lost
+802,Clothing & Apparel,61.36,18.89,1,2,Lost,1.0,Lost
+803,Accessories,950.2,364.73,5,5,Champions,5.0,Champions
+803,Clothing & Apparel,1190.25,480.26,5,5,Champions,5.0,Champions
+804,Accessories,79.48,37.22,1,3,At_Risk,1.0,At_Risk
+805,Accessories,344.66,107.69,2,4,Potential,4.0,Champions
+806,Electronics,728.37,104.66,1,2,High_Value,3.0,At_Risk
+807,Clothing & Apparel,878.04,304.44,2,2,High_Value,5.0,High_Value
+808,Clothing & Apparel,71.89,26.23,1,1,Lost,1.0,Lost
+809,Electronics,1580.96,136.94,2,3,Loyal,4.0,Loyal
+810,Clothing & Apparel,70.52,18.3,2,5,At_Risk,1.0,At_Risk
+811,Home & Furniture,1410.84,269.49,2,5,Champions,4.0,Champions
+812,Clothing & Apparel,223.68,64.24,2,1,Lost,2.0,Lost
+813,Electronics,3883.6,441.09,4,1,High_Value,5.0,High_Value
+814,Electronics,662.16,118.08,3,5,Champions,2.0,Potential
+815,Electronics,1278.53,162.97,1,3,Loyal,4.0,Loyal
+816,Electronics,2237.04,365.63,3,4,Champions,5.0,Champions
+817,Electronics,320.83,41.17,1,5,Potential,1.0,At_Risk
+818,Accessories,145.94,65.43,1,1,Lost,2.0,Lost
+819,Accessories,299.9,133.92,2,2,High_Value,4.0,High_Value
+819,Home & Furniture,1680.5,407.18,2,2,High_Value,5.0,High_Value
+820,Clothing & Apparel,363.0,148.8,1,4,Potential,3.0,Potential
+821,Electronics,248.05,32.52,1,2,Lost,1.0,Lost
+822,Accessories,211.44,61.38,1,5,Potential,3.0,Potential
+823,Home & Furniture,1517.83,269.29,3,5,Champions,5.0,Champions
+824,Clothing & Apparel,33.7,9.87,1,2,Lost,1.0,Lost
+825,Clothing & Apparel,861.57,364.79,3,4,Champions,5.0,Champions
+826,Accessories,443.28,201.1,3,3,Loyal,5.0,Loyal
+826,Clothing & Apparel,204.36,71.94,1,3,Loyal,2.0,At_Risk
+827,Accessories,46.59,19.79,1,2,Lost,1.0,Lost
+828,Clothing & Apparel,848.12,271.12,2,1,High_Value,5.0,High_Value
+829,Home & Furniture,2869.6,966.23,5,2,High_Value,5.0,High_Value
+830,Clothing & Apparel,638.02,166.71,2,2,High_Value,4.0,High_Value
+831,Home & Furniture,1075.4,238.04,2,4,Champions,4.0,Champions
+832,Clothing & Apparel,52.43,14.29,1,5,At_Risk,1.0,At_Risk
+833,Electronics,1920.72,195.46,4,5,Champions,5.0,Champions
+834,Clothing & Apparel,119.29,42.67,1,2,Lost,1.0,Lost
+835,Clothing & Apparel,103.25,45.12,1,1,Lost,1.0,Lost
+836,Home & Furniture,590.28,137.19,1,1,At_Risk,2.0,Lost
+837,Electronics,117.92,18.9,1,4,At_Risk,1.0,At_Risk
+838,Electronics,614.52,98.46,2,1,At_Risk,2.0,Lost
+839,Electronics,1129.92,211.7,2,3,Loyal,4.0,Loyal
+840,Clothing & Apparel,666.48,228.32,3,1,High_Value,4.0,High_Value
+841,Home & Furniture,533.35,110.41,1,1,At_Risk,2.0,Lost
+842,Electronics,488.63,70.68,1,3,Loyal,2.0,At_Risk
+843,Accessories,175.59,86.45,1,2,Lost,2.0,Lost
+844,Electronics,970.41,102.74,3,5,Champions,3.0,Potential
+845,Accessories,53.47,10.3,1,2,Lost,1.0,Lost
+846,Home & Furniture,1181.12,354.1,2,1,High_Value,4.0,High_Value
+847,Clothing & Apparel,1047.96,261.19,4,3,Loyal,5.0,Loyal
+848,Home & Furniture,1401.26,344.75,2,1,High_Value,4.0,High_Value
+849,Electronics,1304.64,110.4,2,1,High_Value,4.0,High_Value
+850,Home & Furniture,1363.14,313.22,2,5,Champions,4.0,Champions
+851,Clothing & Apparel,362.07,74.01,1,3,At_Risk,3.0,Loyal
+852,Clothing & Apparel,350.47,101.47,1,1,Lost,3.0,At_Risk
+853,Electronics,130.79,11.11,1,3,At_Risk,1.0,At_Risk
+854,Home & Furniture,499.48,66.14,2,1,At_Risk,2.0,Lost
+855,Electronics,631.9,121.72,1,3,Loyal,2.0,At_Risk
+856,Electronics,222.07,26.11,1,1,Lost,1.0,Lost
+857,Accessories,64.52,22.13,1,3,At_Risk,1.0,At_Risk
+857,Clothing & Apparel,28.74,6.4,1,3,At_Risk,1.0,At_Risk
+858,Home & Furniture,793.2,254.54,1,3,Loyal,3.0,Loyal
+859,Clothing & Apparel,209.85,91.73,1,2,Lost,2.0,Lost
+860,Home & Furniture,414.28,65.27,1,5,Potential,2.0,Potential
+861,Clothing & Apparel,144.3,30.08,3,5,At_Risk,1.0,At_Risk
+862,Accessories,216.3,50.69,3,4,Potential,3.0,Potential
+863,Home & Furniture,981.26,161.35,2,4,Champions,4.0,Champions
+864,Clothing & Apparel,308.76,134.02,2,3,At_Risk,3.0,Loyal
+865,Home & Furniture,720.94,135.58,1,1,High_Value,3.0,At_Risk
+866,Accessories,197.32,58.43,2,2,Lost,3.0,At_Risk
+867,Accessories,100.13,31.32,1,1,Lost,1.0,Lost
+868,Accessories,496.89,133.52,3,2,At_Risk,5.0,High_Value
+869,Home & Furniture,779.65,183.53,1,1,High_Value,3.0,At_Risk
+870,Clothing & Apparel,710.52,260.33,3,5,Champions,5.0,Champions
+871,Home & Furniture,450.5,60.46,1,2,At_Risk,2.0,Lost
+872,Electronics,533.6,74.94,2,4,Potential,2.0,Potential
+873,Home & Furniture,852.67,194.93,1,4,Champions,4.0,Champions
+874,Electronics,911.0,173.52,1,1,High_Value,3.0,At_Risk
+875,Home & Furniture,644.86,101.3,1,2,High_Value,3.0,At_Risk
+876,Home & Furniture,515.43,79.49,1,1,At_Risk,2.0,Lost
+877,Clothing & Apparel,319.29,89.08,1,1,Lost,3.0,At_Risk
+878,Clothing & Apparel,344.5,84.69,1,5,Potential,3.0,Potential
+879,Electronics,908.47,130.73,1,4,Champions,3.0,Potential
+880,Clothing & Apparel,647.4,203.83,2,1,High_Value,4.0,High_Value
+881,Accessories,482.64,226.69,2,5,Potential,5.0,Champions
+882,Home & Furniture,1215.28,274.46,2,2,High_Value,4.0,High_Value
+883,Home & Furniture,3147.44,491.72,4,5,Champions,5.0,Champions
+884,Clothing & Apparel,1023.12,354.16,3,4,Champions,5.0,Champions
+885,Clothing & Apparel,272.12,96.08,1,4,Potential,3.0,Potential
+886,Accessories,91.54,24.01,1,1,Lost,1.0,Lost
+887,Electronics,1037.72,129.99,1,1,High_Value,4.0,High_Value
+888,Clothing & Apparel,620.7,232.72,2,2,At_Risk,4.0,High_Value
+889,Clothing & Apparel,1436.8,336.4,4,2,High_Value,5.0,High_Value
+890,Accessories,225.47,82.95,1,2,High_Value,3.0,At_Risk
+890,Clothing & Apparel,554.96,159.83,2,2,High_Value,4.0,High_Value
+891,Home & Furniture,150.75,24.08,1,1,Lost,1.0,Lost
+892,Home & Furniture,1273.56,382.05,2,3,Loyal,4.0,Loyal
+893,Accessories,62.78,18.21,1,2,Lost,1.0,Lost
+894,Accessories,241.71,54.94,3,5,Potential,3.0,Potential
+895,Clothing & Apparel,359.23,92.97,1,2,Lost,3.0,At_Risk
+896,Clothing & Apparel,370.96,134.15,1,1,At_Risk,3.0,At_Risk
+897,Electronics,122.66,14.9,1,4,At_Risk,1.0,At_Risk
+898,Accessories,375.92,89.95,4,5,Potential,4.0,Champions
+899,Clothing & Apparel,641.19,284.82,3,4,Champions,4.0,Champions
+900,Electronics,722.8,64.35,1,5,Champions,3.0,Potential
+901,Clothing & Apparel,97.3,24.6,1,4,At_Risk,1.0,At_Risk
+902,Home & Furniture,773.07,251.96,1,5,Champions,3.0,Potential
+903,Clothing & Apparel,1024.8,460.97,4,4,Champions,5.0,Champions
+904,Clothing & Apparel,555.22,208.6,2,3,Loyal,4.0,Loyal
+905,Accessories,709.98,155.26,3,2,High_Value,5.0,High_Value
+906,Clothing & Apparel,695.73,202.02,3,3,Loyal,5.0,Loyal
+907,Accessories,667.95,231.77,3,1,High_Value,5.0,High_Value
+908,Clothing & Apparel,216.87,66.85,3,4,Potential,2.0,Potential
+909,Home & Furniture,1406.55,231.35,3,3,Loyal,4.0,Loyal
+910,Clothing & Apparel,77.73,22.74,3,5,At_Risk,1.0,At_Risk
+911,Electronics,113.39,13.86,1,5,At_Risk,1.0,At_Risk
+912,Electronics,1226.3,157.1,1,5,Champions,4.0,Champions
+913,Clothing & Apparel,1587.52,666.74,4,2,High_Value,5.0,High_Value
+914,Accessories,273.36,50.41,3,1,Lost,4.0,High_Value
+915,Electronics,2084.6,314.01,5,3,Loyal,5.0,Loyal
+916,Electronics,2146.59,266.93,3,2,High_Value,5.0,High_Value
+917,Electronics,997.38,192.65,1,4,Champions,4.0,Champions
+917,Home & Furniture,867.22,134.05,1,4,Champions,4.0,Champions
+918,Home & Furniture,1225.46,327.54,2,5,Champions,4.0,Champions
+919,Accessories,183.47,36.38,1,5,Potential,2.0,Potential
+919,Electronics,409.28,53.84,2,5,Potential,1.0,At_Risk
+920,Home & Furniture,1028.65,135.0,1,5,Champions,4.0,Champions
+921,Home & Furniture,835.34,148.99,1,4,Champions,4.0,Champions
+922,Electronics,536.9,81.11,2,3,Loyal,2.0,At_Risk
+923,Home & Furniture,509.98,95.96,1,2,At_Risk,2.0,Lost
+924,Clothing & Apparel,404.84,95.94,4,2,At_Risk,4.0,High_Value
+925,Accessories,185.37,74.65,1,5,At_Risk,3.0,Potential
+926,Clothing & Apparel,230.02,78.71,2,4,Potential,2.0,Potential
+927,Clothing & Apparel,273.42,109.39,2,2,Lost,3.0,At_Risk
+928,Home & Furniture,2319.78,489.12,3,3,Loyal,5.0,Loyal
+929,Clothing & Apparel,340.36,149.28,1,2,Lost,3.0,At_Risk
+930,Clothing & Apparel,390.5,116.69,2,1,At_Risk,3.0,At_Risk
+931,Electronics,1462.74,265.52,2,3,Loyal,4.0,Loyal
+932,Electronics,3550.44,621.11,4,4,Champions,5.0,Champions
+933,Electronics,1580.16,291.69,2,1,High_Value,4.0,High_Value
+934,Electronics,212.32,39.29,2,1,Lost,1.0,Lost
+935,Electronics,1495.36,155.86,4,1,High_Value,4.0,High_Value
+936,Accessories,451.58,223.37,2,4,Potential,5.0,Champions
+937,Electronics,266.41,37.3,1,3,At_Risk,1.0,At_Risk
+938,Electronics,1708.23,312.67,3,1,High_Value,4.0,High_Value
+939,Clothing & Apparel,1550.08,494.17,4,2,High_Value,5.0,High_Value
+940,Electronics,2749.65,277.6,3,3,Loyal,5.0,Loyal
+941,Electronics,577.58,99.47,2,2,At_Risk,2.0,Lost
+942,Clothing & Apparel,701.06,248.76,2,2,High_Value,5.0,High_Value
+943,Home & Furniture,667.18,216.62,1,5,Champions,3.0,Potential
+944,Electronics,2130.18,379.46,3,4,Champions,5.0,Champions
+944,Home & Furniture,481.51,136.67,1,4,Champions,2.0,Potential
+945,Clothing & Apparel,334.08,118.83,1,3,At_Risk,3.0,Loyal
+946,Electronics,1595.8,202.91,4,1,High_Value,4.0,High_Value
+947,Clothing & Apparel,1391.28,560.99,3,4,Champions,5.0,Champions
+948,Accessories,99.14,20.56,1,4,At_Risk,1.0,At_Risk
+949,Electronics,673.16,113.88,1,5,Champions,2.0,Potential
+950,Home & Furniture,1523.31,397.06,3,3,Loyal,5.0,Loyal
+951,Electronics,1704.64,142.73,2,5,Champions,4.0,Champions
+952,Clothing & Apparel,44.05,11.23,1,1,Lost,1.0,Lost
+953,Home & Furniture,781.92,148.32,1,1,High_Value,3.0,At_Risk
+954,Electronics,573.03,48.69,1,4,Potential,2.0,Potential
+955,Electronics,761.57,118.26,1,4,Champions,3.0,Potential
+956,Home & Furniture,724.29,116.96,1,5,Champions,3.0,Potential
+957,Clothing & Apparel,75.9,22.44,1,2,Lost,1.0,Lost
+958,Home & Furniture,504.54,107.06,2,1,At_Risk,2.0,Lost
+959,Clothing & Apparel,425.66,145.1,1,3,Loyal,4.0,Loyal
+960,Home & Furniture,4194.12,584.05,4,4,Champions,5.0,Champions
+961,Accessories,250.34,56.7,1,4,Potential,4.0,Champions
+962,Home & Furniture,602.5,185.03,1,5,Potential,3.0,Potential
+963,Clothing & Apparel,272.35,73.23,1,2,Lost,3.0,At_Risk
+964,Clothing & Apparel,1733.68,682.2,4,1,High_Value,5.0,High_Value
+965,Accessories,451.42,140.72,2,3,Loyal,5.0,Loyal
+966,Electronics,577.16,56.09,1,2,At_Risk,2.0,Lost
+967,Clothing & Apparel,1193.04,473.8,4,3,Loyal,5.0,Loyal
+968,Home & Furniture,721.89,153.88,1,3,Loyal,3.0,Loyal
+969,Accessories,104.02,48.07,1,4,At_Risk,1.0,At_Risk
+970,Electronics,1096.14,107.14,2,5,Champions,4.0,Champions
+971,Electronics,521.15,87.94,1,4,Potential,2.0,Potential
+972,Electronics,260.93,45.93,1,2,Lost,1.0,Lost
+973,Clothing & Apparel,283.24,112.76,2,2,Lost,3.0,At_Risk
+974,Accessories,187.28,42.5,2,1,Lost,3.0,At_Risk
+975,Clothing & Apparel,166.9,49.73,1,5,At_Risk,2.0,Potential
+976,Electronics,1009.19,199.74,1,2,High_Value,4.0,High_Value
+977,Clothing & Apparel,865.68,314.97,3,5,Champions,5.0,Champions
+978,Clothing & Apparel,450.46,178.06,2,2,At_Risk,4.0,High_Value
+979,Clothing & Apparel,635.74,265.91,2,3,Loyal,4.0,Loyal
+980,Electronics,152.92,30.3,1,2,Lost,1.0,Lost
+981,Clothing & Apparel,791.04,225.23,3,4,Champions,5.0,Champions
+982,Home & Furniture,746.54,179.92,1,4,Champions,3.0,Potential
+983,Home & Furniture,802.49,123.55,1,1,High_Value,3.0,At_Risk
+984,Clothing & Apparel,338.55,96.82,3,2,Lost,3.0,At_Risk
+985,Electronics,625.04,56.67,1,4,Potential,2.0,Potential
+986,Clothing & Apparel,397.6,118.39,1,1,At_Risk,4.0,High_Value
+987,Accessories,92.93,42.74,1,2,Lost,1.0,Lost
+988,Home & Furniture,788.61,138.2,1,3,Loyal,3.0,Loyal
+989,Electronics,1159.02,152.35,3,1,High_Value,4.0,High_Value
+990,Clothing & Apparel,539.79,226.53,3,3,Loyal,4.0,Loyal
+991,Clothing & Apparel,209.94,42.9,1,4,Potential,2.0,Potential
+992,Accessories,224.17,92.71,1,5,Potential,3.0,Potential
+993,Accessories,191.62,92.68,1,3,At_Risk,3.0,Loyal
+994,Electronics,972.97,108.28,1,4,Champions,3.0,Potential
+995,Electronics,404.77,74.61,1,3,Loyal,1.0,At_Risk
+996,Electronics,235.61,43.94,1,4,Potential,1.0,At_Risk
+997,Accessories,123.36,59.16,1,5,At_Risk,2.0,Potential
+998,Clothing & Apparel,789.62,194.04,2,2,High_Value,5.0,High_Value
+999,Clothing & Apparel,619.12,167.66,2,2,At_Risk,4.0,High_Value
+1000,Clothing & Apparel,816.3,266.93,2,2,High_Value,5.0,High_Value
+1001,Clothing & Apparel,1842.72,478.56,4,1,High_Value,5.0,High_Value
+1002,Clothing & Apparel,206.36,59.15,4,3,At_Risk,2.0,At_Risk
+1003,Electronics,446.61,45.82,3,1,At_Risk,2.0,Lost
+1004,Clothing & Apparel,199.91,65.73,1,5,Potential,2.0,Potential
+1005,Accessories,59.13,20.12,1,3,At_Risk,1.0,At_Risk
+1006,Clothing & Apparel,131.89,54.53,1,1,Lost,1.0,Lost
+1007,Clothing & Apparel,245.11,88.43,1,5,Potential,2.0,Potential
+1007,Home & Furniture,131.56,40.98,1,5,Potential,1.0,At_Risk
+1008,Electronics,1667.72,229.77,2,1,High_Value,4.0,High_Value
+1009,Clothing & Apparel,65.07,25.97,1,4,At_Risk,1.0,At_Risk
+1010,Electronics,927.87,168.09,1,5,Champions,3.0,Potential
+1011,Accessories,545.32,200.3,4,1,At_Risk,5.0,High_Value
+1012,Electronics,1979.12,369.32,2,5,Champions,5.0,Champions
+1013,Electronics,586.37,59.62,1,3,Loyal,2.0,At_Risk
+1014,Accessories,51.69,16.32,1,1,Lost,1.0,Lost
+1015,Accessories,731.82,247.84,3,5,Champions,5.0,Champions
+1016,Clothing & Apparel,505.35,199.0,3,3,Loyal,4.0,Loyal
+1017,Home & Furniture,245.2,74.18,1,2,Lost,1.0,Lost
+1018,Accessories,98.21,21.68,1,2,Lost,1.0,Lost
+1019,Clothing & Apparel,944.84,229.29,4,5,Champions,5.0,Champions
+1020,Home & Furniture,683.43,103.15,3,4,Champions,3.0,Potential
+1021,Clothing & Apparel,107.92,26.88,1,5,At_Risk,1.0,At_Risk
+1022,Clothing & Apparel,1040.55,319.38,3,5,Champions,5.0,Champions
+1023,Clothing & Apparel,1471.25,656.64,5,5,Champions,5.0,Champions
+1024,Home & Furniture,1066.14,367.18,2,3,Loyal,4.0,Loyal
+1025,Clothing & Apparel,224.52,83.86,1,1,Lost,2.0,Lost
+1026,Home & Furniture,483.01,96.5,1,2,At_Risk,2.0,Lost
+1027,Accessories,557.88,254.75,3,2,At_Risk,5.0,High_Value
+1028,Electronics,287.83,45.75,1,5,Potential,1.0,At_Risk
+1029,Electronics,344.0,55.74,1,2,Lost,1.0,Lost
+1030,Electronics,180.8,18.84,1,4,At_Risk,1.0,At_Risk
+1031,Electronics,1822.64,273.67,2,5,Champions,5.0,Champions
+1032,Home & Furniture,1122.15,312.95,1,2,High_Value,4.0,High_Value
+1033,Accessories,197.6,70.0,2,1,Lost,3.0,At_Risk
+1034,Electronics,2584.8,352.24,5,3,Loyal,5.0,Loyal
+1035,Home & Furniture,841.42,284.09,1,1,High_Value,4.0,High_Value
+1036,Home & Furniture,256.51,58.23,1,1,Lost,1.0,Lost
+1037,Home & Furniture,3524.58,718.13,3,1,High_Value,5.0,High_Value
+1038,Clothing & Apparel,600.58,196.24,2,5,Potential,4.0,Champions
+1039,Accessories,588.81,269.46,3,1,At_Risk,5.0,High_Value
+1040,Home & Furniture,1716.24,368.34,2,4,Champions,5.0,Champions
+1041,Electronics,386.82,48.26,1,4,Potential,1.0,At_Risk
+1042,Clothing & Apparel,536.66,136.17,2,5,Potential,4.0,Champions
+1043,Home & Furniture,2366.07,490.1,3,3,Loyal,5.0,Loyal
+1044,Home & Furniture,2686.84,512.01,4,5,Champions,5.0,Champions
+1045,Home & Furniture,189.72,53.3,3,3,At_Risk,1.0,At_Risk
+1046,Clothing & Apparel,187.25,57.34,1,2,Lost,2.0,Lost
+1047,Clothing & Apparel,934.29,316.48,3,1,High_Value,5.0,High_Value
+1048,Electronics,270.75,30.37,1,3,At_Risk,1.0,At_Risk
+1049,Clothing & Apparel,178.24,63.25,2,2,Lost,2.0,Lost
+1050,Electronics,536.12,85.06,1,1,At_Risk,2.0,Lost
+1051,Clothing & Apparel,93.1,33.86,1,5,At_Risk,1.0,At_Risk
+1052,Accessories,177.01,38.55,1,4,At_Risk,2.0,Potential
+1053,Home & Furniture,2015.16,652.83,4,1,High_Value,5.0,High_Value
+1054,Clothing & Apparel,84.33,35.08,1,1,Lost,1.0,Lost
+1055,Electronics,1767.04,235.85,2,4,Champions,5.0,Champions
+1056,Home & Furniture,320.35,79.45,1,1,Lost,1.0,Lost
+1057,Clothing & Apparel,936.24,411.51,4,3,Loyal,5.0,Loyal
+1058,Home & Furniture,489.94,144.74,2,5,Potential,2.0,Potential
+1059,Accessories,226.32,102.48,1,3,At_Risk,3.0,Loyal
+1060,Electronics,880.24,74.27,2,5,Champions,3.0,Potential
+1061,Electronics,2515.6,315.34,4,1,High_Value,5.0,High_Value
+1062,Home & Furniture,102.46,17.49,1,3,At_Risk,1.0,At_Risk
+1063,Accessories,108.79,32.71,1,3,At_Risk,1.0,At_Risk
+1064,Accessories,439.04,123.96,2,1,At_Risk,5.0,High_Value
+1065,Accessories,399.96,150.12,4,5,Potential,4.0,Champions
+1066,Clothing & Apparel,194.49,51.44,1,4,At_Risk,2.0,Potential
+1067,Home & Furniture,1713.48,265.88,4,5,Champions,5.0,Champions
+1068,Home & Furniture,567.3,188.96,1,2,At_Risk,2.0,Lost
+1069,Home & Furniture,303.14,63.69,2,4,Potential,1.0,At_Risk
+1070,Electronics,1799.2,293.4,2,5,Champions,5.0,Champions
+1071,Home & Furniture,1203.79,267.95,4,5,Champions,4.0,Champions
+1072,Electronics,754.35,77.98,3,4,Champions,3.0,Potential
+1073,Clothing & Apparel,644.22,202.69,2,2,High_Value,4.0,High_Value
+1074,Home & Furniture,1354.17,186.44,3,5,Champions,4.0,Champions
+1075,Home & Furniture,188.9,62.07,1,4,At_Risk,1.0,At_Risk
+1076,Electronics,545.76,53.41,1,2,At_Risk,2.0,Lost
+1077,Accessories,118.38,42.65,1,2,Lost,1.0,Lost
+1078,Electronics,3273.24,496.46,4,5,Champions,5.0,Champions
+1079,Clothing & Apparel,231.33,79.7,1,2,Lost,2.0,Lost
+1080,Home & Furniture,1009.58,305.63,2,4,Champions,4.0,Champions
+1081,Electronics,270.9,25.07,2,4,Potential,1.0,At_Risk
+1082,Clothing & Apparel,159.44,71.74,4,2,Lost,2.0,Lost
+1083,Clothing & Apparel,398.0,128.85,1,4,Potential,4.0,Champions
+1084,Home & Furniture,674.67,140.41,3,5,Champions,3.0,Potential
+1085,Accessories,422.12,161.12,4,2,At_Risk,4.0,High_Value
+1086,Accessories,86.03,27.3,1,1,Lost,1.0,Lost
+1087,Electronics,1333.12,147.22,2,5,Champions,4.0,Champions
+1088,Electronics,1044.53,177.13,1,2,High_Value,4.0,High_Value
+1089,Home & Furniture,465.4,87.38,2,1,At_Risk,2.0,Lost
+1090,Electronics,1234.08,143.45,3,1,High_Value,4.0,High_Value
+1091,Home & Furniture,2117.25,460.91,3,3,Loyal,5.0,Loyal
+1092,Home & Furniture,272.19,69.22,1,4,Potential,1.0,At_Risk
+1093,Clothing & Apparel,284.02,86.12,2,3,At_Risk,3.0,Loyal
+1094,Home & Furniture,456.66,157.07,1,4,Potential,2.0,Potential
+1095,Electronics,3726.12,319.83,3,4,Champions,5.0,Champions
+1096,Accessories,240.26,80.38,1,3,At_Risk,3.0,Loyal
+1097,Electronics,795.75,67.89,1,2,High_Value,3.0,At_Risk
+1098,Clothing & Apparel,337.09,84.97,1,5,Potential,3.0,Potential
+1099,Home & Furniture,274.59,38.76,3,4,Potential,1.0,At_Risk
+1100,Electronics,902.34,112.97,1,2,High_Value,3.0,At_Risk
+1101,Clothing & Apparel,197.12,87.43,2,4,Potential,2.0,Potential
+1102,Electronics,2091.51,391.21,3,4,Champions,5.0,Champions
+1103,Home & Furniture,822.56,238.46,2,3,Loyal,3.0,Loyal
+1104,Accessories,151.47,50.84,1,4,At_Risk,2.0,Potential
+1105,Accessories,533.88,231.94,3,4,Potential,5.0,Champions
+1106,Clothing & Apparel,1179.03,465.78,3,2,High_Value,5.0,High_Value
+1107,Electronics,125.5,21.17,1,4,At_Risk,1.0,At_Risk
+1108,Home & Furniture,238.42,70.86,2,1,Lost,1.0,Lost
+1109,Electronics,661.5,108.68,2,5,Champions,2.0,Potential
+1110,Accessories,726.12,309.1,3,2,High_Value,5.0,High_Value
+1111,Electronics,778.32,137.48,3,5,Champions,3.0,Potential
+1112,Electronics,1512.09,184.34,3,5,Champions,4.0,Champions
+1113,Home & Furniture,1601.28,499.97,2,1,High_Value,5.0,High_Value
+1114,Accessories,182.73,72.49,1,1,Lost,2.0,Lost
+1115,Electronics,414.39,41.92,1,3,Loyal,1.0,At_Risk
+1116,Electronics,454.88,90.02,2,3,Loyal,2.0,At_Risk
+1117,Electronics,843.76,132.17,1,3,Loyal,3.0,Loyal
+1118,Clothing & Apparel,82.98,33.52,3,3,At_Risk,1.0,At_Risk
+1119,Electronics,313.37,34.58,1,2,Lost,1.0,Lost
+1120,Accessories,990.68,486.0,4,4,Champions,5.0,Champions
+1121,Clothing & Apparel,77.82,26.07,3,4,At_Risk,1.0,At_Risk
+1122,Home & Furniture,1783.14,596.57,2,3,Loyal,5.0,Loyal
+1123,Clothing & Apparel,123.62,45.74,2,3,At_Risk,1.0,At_Risk
+1124,Clothing & Apparel,1145.5,312.26,5,5,Champions,5.0,Champions
+1124,Home & Furniture,428.97,60.53,1,5,Champions,2.0,Potential
+1125,Electronics,1436.94,140.1,2,2,High_Value,4.0,High_Value
+1126,Electronics,390.06,48.93,1,3,Loyal,1.0,At_Risk
+1127,Electronics,110.49,9.64,1,4,At_Risk,1.0,At_Risk
+1128,Electronics,4258.25,475.22,5,5,Champions,5.0,Champions
+1129,Home & Furniture,220.61,44.94,1,4,Potential,1.0,At_Risk
+1130,Clothing & Apparel,573.3,222.16,2,4,Potential,4.0,Champions
+1131,Electronics,2057.54,253.8,2,5,Champions,5.0,Champions
+1132,Electronics,2238.94,310.85,2,4,Champions,5.0,Champions
+1133,Accessories,237.48,57.82,1,4,Potential,3.0,Potential
+1134,Electronics,1834.08,231.14,4,3,Loyal,5.0,Loyal
+1135,Home & Furniture,470.52,157.83,1,1,At_Risk,2.0,Lost
+1136,Electronics,1039.14,185.04,1,5,Champions,4.0,Champions
+1137,Electronics,3596.0,401.27,4,5,Champions,5.0,Champions
+1138,Accessories,145.18,52.99,2,2,Lost,2.0,Lost
+1139,Electronics,890.64,112.2,4,1,High_Value,3.0,At_Risk
+1140,Clothing & Apparel,317.73,118.06,1,4,Potential,3.0,Potential
+1141,Clothing & Apparel,62.74,14.88,1,2,Lost,1.0,Lost
+1142,Clothing & Apparel,1279.92,546.39,3,3,Loyal,5.0,Loyal
+1143,Home & Furniture,225.15,74.17,1,3,At_Risk,1.0,At_Risk
+1144,Home & Furniture,307.92,49.79,2,2,Lost,1.0,Lost
+1145,Accessories,503.48,159.32,2,3,Loyal,5.0,Loyal
+1146,Home & Furniture,800.08,173.59,1,1,High_Value,3.0,At_Risk
+1147,Electronics,2995.53,565.23,3,4,Champions,5.0,Champions
+1148,Electronics,934.82,86.07,1,2,High_Value,3.0,At_Risk
+1149,Accessories,214.23,43.88,1,5,Potential,3.0,Potential
+1150,Clothing & Apparel,822.56,182.68,4,5,Champions,5.0,Champions
+1151,Electronics,1837.41,288.83,3,2,High_Value,5.0,High_Value
+1152,Accessories,172.17,62.45,1,1,Lost,2.0,Lost
+1153,Clothing & Apparel,717.26,205.73,2,4,Champions,5.0,Champions
+1154,Home & Furniture,372.76,114.29,4,1,At_Risk,2.0,Lost
+1155,Home & Furniture,995.5,292.43,5,5,Champions,4.0,Champions
+1156,Electronics,1037.62,206.23,2,5,Champions,4.0,Champions
+1157,Accessories,213.42,75.76,1,3,At_Risk,3.0,Loyal
+1158,Clothing & Apparel,1146.45,416.79,3,4,Champions,5.0,Champions
+1159,Accessories,410.76,186.98,2,1,At_Risk,4.0,High_Value
+1160,Clothing & Apparel,93.02,26.49,1,1,Lost,1.0,Lost
+1161,Clothing & Apparel,149.26,62.68,1,4,At_Risk,1.0,At_Risk
+1162,Electronics,157.75,23.33,1,2,Lost,1.0,Lost
+1163,Home & Furniture,3256.85,396.15,5,5,Champions,5.0,Champions
+1164,Accessories,279.62,118.69,2,1,Lost,4.0,High_Value
+1165,Electronics,301.38,33.76,1,3,At_Risk,1.0,At_Risk
+1166,Clothing & Apparel,33.07,8.09,1,2,Lost,1.0,Lost
+1167,Clothing & Apparel,206.85,59.66,3,5,Potential,2.0,Potential
+1168,Electronics,2620.56,510.36,4,2,High_Value,5.0,High_Value
+1169,Home & Furniture,566.1,164.82,2,2,At_Risk,2.0,Lost
+1170,Electronics,508.24,41.21,2,3,Loyal,2.0,At_Risk
+1171,Clothing & Apparel,155.6,59.5,2,3,At_Risk,2.0,At_Risk
+1172,Electronics,821.17,85.42,1,3,Loyal,3.0,Loyal
+1173,Clothing & Apparel,355.83,77.16,1,5,Potential,3.0,Potential
+1174,Home & Furniture,1637.06,398.36,2,5,Champions,5.0,Champions
+1175,Clothing & Apparel,842.96,245.66,2,1,High_Value,5.0,High_Value
+1176,Electronics,1448.26,257.63,2,5,Champions,4.0,Champions
+1177,Clothing & Apparel,224.32,76.89,1,3,Loyal,2.0,At_Risk
+1177,Electronics,2220.39,384.4,3,3,Loyal,5.0,Loyal
+1178,Accessories,396.0,100.9,5,4,Potential,4.0,Champions
+1179,Clothing & Apparel,85.69,31.32,1,4,At_Risk,1.0,At_Risk
+1180,Electronics,1541.72,280.85,2,5,Champions,4.0,Champions
+1181,Electronics,462.92,92.44,1,1,At_Risk,2.0,Lost
+1182,Home & Furniture,972.91,227.8,1,3,Loyal,4.0,Loyal
+1183,Accessories,158.98,29.26,1,3,At_Risk,2.0,At_Risk
+1184,Home & Furniture,739.11,251.72,1,1,High_Value,3.0,At_Risk
+1185,Home & Furniture,618.86,184.63,1,3,Loyal,3.0,Loyal
+1186,Home & Furniture,642.93,172.26,1,4,Champions,3.0,Potential
+1187,Clothing & Apparel,158.77,69.98,1,1,Lost,2.0,Lost
+1188,Home & Furniture,458.64,145.89,2,5,Potential,2.0,Potential
+1189,Clothing & Apparel,439.87,134.93,1,5,Potential,4.0,Champions
+1190,Accessories,101.5,29.22,1,3,At_Risk,1.0,At_Risk
+1191,Home & Furniture,556.6,184.61,2,3,Loyal,2.0,At_Risk
+1192,Clothing & Apparel,342.01,144.57,1,4,Potential,3.0,Potential
+1193,Home & Furniture,733.78,168.37,2,4,Champions,3.0,Potential
+1194,Home & Furniture,1295.34,198.38,3,5,Champions,4.0,Champions
+1195,Clothing & Apparel,92.16,21.47,2,5,At_Risk,1.0,At_Risk
+1196,Accessories,134.91,67.38,1,5,At_Risk,2.0,Potential
+1197,Home & Furniture,400.45,61.11,1,5,Potential,2.0,Potential
+1198,Home & Furniture,893.92,304.91,4,5,Champions,4.0,Champions
+1199,Accessories,148.65,41.5,1,4,At_Risk,2.0,Potential
+1200,Clothing & Apparel,319.6,135.08,1,1,Lost,3.0,At_Risk
+1201,Accessories,1171.61,273.0,5,2,High_Value,5.0,High_Value
+1202,Home & Furniture,590.56,115.17,1,2,At_Risk,2.0,Lost
+1203,Electronics,554.95,77.34,1,2,At_Risk,2.0,Lost
+1204,Electronics,521.66,95.83,1,3,Loyal,2.0,At_Risk
+1205,Clothing & Apparel,301.32,130.96,2,3,At_Risk,3.0,Loyal
+1206,Electronics,1006.47,101.47,1,5,Champions,4.0,Champions
+1207,Clothing & Apparel,959.3,250.87,2,1,High_Value,5.0,High_Value
+1208,Electronics,909.06,180.02,2,2,High_Value,3.0,At_Risk
+1209,Clothing & Apparel,384.98,172.28,1,5,Potential,3.0,Potential
+1210,Clothing & Apparel,585.82,125.47,2,1,At_Risk,4.0,High_Value
+1211,Home & Furniture,148.04,27.93,2,3,At_Risk,1.0,At_Risk
+1212,Clothing & Apparel,1147.96,438.98,4,3,Loyal,5.0,Loyal
+1213,Home & Furniture,3985.1,591.73,5,4,Champions,5.0,Champions
+1214,Electronics,1265.46,188.95,2,5,Champions,4.0,Champions
+1215,Clothing & Apparel,296.66,121.17,1,1,Lost,3.0,At_Risk
+1216,Accessories,337.17,64.43,3,4,Potential,4.0,Champions
+1217,Clothing & Apparel,379.76,99.65,1,1,At_Risk,3.0,At_Risk
+1218,Accessories,664.08,131.35,3,5,Champions,5.0,Champions
+1219,Home & Furniture,468.18,142.89,2,3,Loyal,2.0,At_Risk
+1220,Home & Furniture,822.62,148.99,1,3,Loyal,3.0,Loyal
+1221,Home & Furniture,2225.44,745.9,4,5,Champions,5.0,Champions
+1222,Electronics,494.7,39.6,1,5,Potential,2.0,Potential
+1223,Clothing & Apparel,1206.45,413.8,3,2,High_Value,5.0,High_Value
+1224,Accessories,134.82,32.16,2,1,Lost,2.0,Lost
+1225,Electronics,478.17,64.68,1,4,Potential,2.0,Potential
+1226,Home & Furniture,214.52,28.99,1,5,Potential,1.0,At_Risk
+1227,Clothing & Apparel,266.18,96.88,1,3,At_Risk,2.0,At_Risk
+1228,Clothing & Apparel,683.6,216.26,2,3,Loyal,4.0,Loyal
+1229,Clothing & Apparel,481.29,194.17,1,3,Loyal,4.0,Loyal
+1230,Home & Furniture,717.17,93.2,1,2,High_Value,3.0,At_Risk
+1231,Accessories,316.82,69.24,2,3,At_Risk,4.0,Loyal
+1232,Home & Furniture,161.05,49.95,1,5,At_Risk,1.0,At_Risk
+1233,Electronics,640.42,88.81,1,2,High_Value,2.0,Lost
+1234,Electronics,815.41,81.85,1,4,Champions,3.0,Potential
+1235,Accessories,269.84,94.78,2,4,Potential,4.0,Champions
+1236,Electronics,1959.48,368.84,4,4,Champions,5.0,Champions
+1237,Clothing & Apparel,845.56,346.89,4,3,Loyal,5.0,Loyal
+1238,Clothing & Apparel,299.68,97.33,1,4,Potential,3.0,Potential
+1239,Electronics,548.62,57.14,1,2,At_Risk,2.0,Lost
+1240,Electronics,327.84,61.98,2,3,At_Risk,1.0,At_Risk
+1241,Home & Furniture,605.84,163.65,1,1,At_Risk,3.0,At_Risk
+1242,Electronics,502.86,40.43,1,2,At_Risk,2.0,Lost
+1243,Clothing & Apparel,324.78,111.48,1,4,Potential,3.0,Potential
+1244,Electronics,659.08,57.23,1,2,High_Value,2.0,Lost
+1245,Electronics,493.03,52.17,1,4,Potential,2.0,Potential
+1246,Accessories,220.26,81.04,1,1,Lost,3.0,At_Risk
+1247,Electronics,4287.55,706.18,5,3,Loyal,5.0,Loyal
+1248,Accessories,375.38,136.66,2,4,Potential,4.0,Champions
+1249,Clothing & Apparel,97.48,28.14,1,3,Loyal,1.0,At_Risk
+1249,Electronics,541.86,101.29,1,3,Loyal,2.0,At_Risk
+1250,Clothing & Apparel,835.6,202.52,2,3,Loyal,5.0,Loyal
+1251,Clothing & Apparel,260.58,58.8,1,4,Potential,2.0,Potential
+1252,Electronics,745.23,80.68,1,4,Champions,3.0,Potential
+1253,Home & Furniture,381.94,71.79,2,4,Potential,2.0,Potential
+1254,Clothing & Apparel,193.93,40.72,1,5,At_Risk,2.0,Potential
+1255,Clothing & Apparel,648.48,240.74,3,5,Champions,4.0,Champions
+1256,Electronics,1950.64,301.7,2,3,Loyal,5.0,Loyal
+1257,Electronics,454.33,42.0,1,3,Loyal,2.0,At_Risk
+1258,Clothing & Apparel,351.57,109.48,1,3,At_Risk,3.0,Loyal
+1259,Electronics,883.95,119.26,1,4,Champions,3.0,Potential
+1260,Home & Furniture,1505.84,460.94,2,1,High_Value,5.0,High_Value
+1261,Accessories,118.13,24.27,1,2,Lost,1.0,Lost
+1262,Home & Furniture,790.53,274.48,1,3,Loyal,3.0,Loyal
+1263,Home & Furniture,964.39,169.17,1,4,Champions,4.0,Champions
+1264,Accessories,211.86,92.7,2,4,Potential,3.0,Potential
+1264,Home & Furniture,336.82,71.33,1,4,Potential,1.0,At_Risk
+1265,Home & Furniture,1041.62,147.69,2,5,Champions,4.0,Champions
+1266,Accessories,791.3,282.08,5,3,Loyal,5.0,Loyal
+1267,Clothing & Apparel,477.74,210.86,2,4,Potential,4.0,Champions
+1268,Electronics,682.26,63.15,1,4,Champions,2.0,Potential
+1269,Home & Furniture,1559.5,218.58,2,1,High_Value,5.0,High_Value
+1270,Clothing & Apparel,257.15,56.37,1,2,Lost,2.0,Lost
+1271,Electronics,4663.5,480.58,5,5,Champions,5.0,Champions
+1272,Home & Furniture,665.25,90.26,1,1,High_Value,3.0,At_Risk
+1273,Clothing & Apparel,292.62,94.14,3,4,Potential,3.0,Potential
+1274,Clothing & Apparel,293.82,65.96,1,4,Potential,3.0,Potential
+1275,Electronics,620.15,110.5,1,1,At_Risk,2.0,Lost
+1276,Home & Furniture,2486.91,735.57,3,3,Loyal,5.0,Loyal
+1277,Home & Furniture,101.07,29.2,1,1,Lost,1.0,Lost
+1278,Electronics,2703.6,297.05,4,2,High_Value,5.0,High_Value
+1279,Electronics,527.97,57.08,1,1,At_Risk,2.0,Lost
+1280,Electronics,535.81,80.59,1,4,Potential,2.0,Potential
+1281,Clothing & Apparel,117.64,41.82,1,2,Lost,1.0,Lost
+1282,Home & Furniture,2565.45,446.97,3,5,Champions,5.0,Champions
+1283,Electronics,846.39,138.25,1,1,High_Value,3.0,At_Risk
+1284,Electronics,1785.3,157.4,2,3,Loyal,5.0,Loyal
+1285,Home & Furniture,121.73,33.73,1,3,At_Risk,1.0,At_Risk
+1286,Accessories,365.98,166.17,2,5,Potential,4.0,Champions
+1287,Home & Furniture,595.82,122.11,1,4,Potential,3.0,Potential
+1288,Accessories,674.34,238.58,3,4,Champions,5.0,Champions
+1289,Clothing & Apparel,51.44,19.5,2,1,Lost,1.0,Lost
+1290,Clothing & Apparel,398.98,121.57,1,4,Potential,4.0,Champions
+1291,Home & Furniture,1198.72,250.09,2,2,High_Value,4.0,High_Value
+1292,Clothing & Apparel,184.7,50.2,1,4,At_Risk,2.0,Potential
+1293,Electronics,363.12,66.49,3,3,At_Risk,1.0,At_Risk
+1294,Clothing & Apparel,187.38,66.79,2,1,Lost,2.0,Lost
+1295,Home & Furniture,166.01,31.76,1,1,Lost,1.0,Lost
+1296,Accessories,166.15,67.69,1,4,At_Risk,2.0,Potential
+1297,Electronics,2977.38,580.83,3,3,Loyal,5.0,Loyal
+1298,Electronics,1017.16,175.72,2,3,Loyal,4.0,Loyal
+1299,Clothing & Apparel,455.84,133.15,1,1,At_Risk,4.0,High_Value
+1300,Accessories,309.12,119.13,2,5,Champions,4.0,Champions
+1300,Clothing & Apparel,2087.3,813.72,5,5,Champions,5.0,Champions
+1301,Clothing & Apparel,741.26,253.73,2,1,High_Value,5.0,High_Value
+1302,Accessories,154.9,31.56,1,2,Lost,2.0,Lost
+1303,Home & Furniture,790.68,257.35,3,3,Loyal,3.0,Loyal
+1304,Home & Furniture,919.28,215.07,2,4,Champions,4.0,Champions
+1305,Clothing & Apparel,135.53,33.96,1,5,At_Risk,1.0,At_Risk
+1306,Clothing & Apparel,783.48,280.29,2,1,High_Value,5.0,High_Value
+1307,Clothing & Apparel,101.22,24.2,2,4,At_Risk,1.0,At_Risk
+1308,Clothing & Apparel,753.54,326.45,3,1,High_Value,5.0,High_Value
+1309,Home & Furniture,287.02,54.83,2,5,Potential,1.0,At_Risk
+1310,Clothing & Apparel,170.69,69.91,1,1,Lost,2.0,Lost
+1311,Clothing & Apparel,115.62,28.88,2,4,At_Risk,1.0,At_Risk
+1312,Clothing & Apparel,343.48,104.98,1,4,Potential,3.0,Potential
+1313,Home & Furniture,1538.64,447.39,4,3,Loyal,5.0,Loyal
+1314,Electronics,1188.42,228.22,2,3,Loyal,4.0,Loyal
+1315,Clothing & Apparel,598.1,153.71,2,2,At_Risk,4.0,High_Value
+1316,Electronics,418.05,60.29,3,3,Loyal,1.0,At_Risk
+1316,Home & Furniture,395.15,56.59,1,3,Loyal,2.0,At_Risk
+1317,Home & Furniture,378.5,78.75,1,5,Potential,2.0,Potential
+1318,Home & Furniture,1672.08,302.42,2,2,High_Value,5.0,High_Value
+1319,Accessories,357.88,167.64,2,1,Lost,4.0,High_Value
+1320,Home & Furniture,1793.5,564.66,2,4,Champions,5.0,Champions
+1321,Accessories,236.77,105.59,1,1,Lost,3.0,At_Risk
+1322,Accessories,142.09,31.14,1,4,At_Risk,2.0,Potential
+1323,Electronics,306.99,33.76,1,5,Potential,1.0,At_Risk
+1324,Electronics,707.37,130.67,1,2,High_Value,3.0,At_Risk
+1325,Clothing & Apparel,605.74,235.29,2,1,At_Risk,4.0,High_Value
+1326,Home & Furniture,1643.34,298.88,2,2,High_Value,5.0,High_Value
+1327,Clothing & Apparel,265.76,60.6,4,3,At_Risk,2.0,At_Risk
+1328,Clothing & Apparel,255.28,64.56,4,4,Potential,2.0,Potential
+1329,Electronics,1461.44,135.7,2,1,High_Value,4.0,High_Value
+1330,Electronics,2307.28,436.69,2,2,High_Value,5.0,High_Value
+1331,Home & Furniture,69.34,21.13,2,1,Lost,1.0,Lost
+1332,Electronics,303.09,33.0,3,3,Loyal,1.0,At_Risk
+1332,Home & Furniture,1538.28,264.76,2,3,Loyal,5.0,Loyal
+1333,Home & Furniture,824.92,180.72,2,2,High_Value,3.0,At_Risk
+1334,Accessories,114.6,55.63,1,2,Lost,1.0,Lost
+1335,Accessories,307.28,104.84,2,2,Lost,4.0,High_Value
+1336,Home & Furniture,376.03,131.22,1,1,At_Risk,2.0,Lost
+1337,Home & Furniture,997.5,252.89,3,1,High_Value,4.0,High_Value
+1338,Electronics,287.49,55.08,1,2,Lost,1.0,Lost
+1339,Clothing & Apparel,425.4,101.36,1,4,Potential,4.0,Champions
+1340,Electronics,577.74,114.78,3,4,Potential,2.0,Potential
+1341,Clothing & Apparel,419.2,180.72,5,5,Potential,4.0,Champions
+1342,Home & Furniture,213.97,69.3,1,5,Potential,1.0,At_Risk
+1343,Accessories,710.58,205.31,3,3,Loyal,5.0,Loyal
+1344,Clothing & Apparel,97.03,24.24,1,5,At_Risk,1.0,At_Risk
+1345,Clothing & Apparel,240.33,77.8,3,3,At_Risk,2.0,At_Risk
+1346,Clothing & Apparel,580.08,135.67,2,5,Potential,4.0,Champions
+1347,Electronics,1481.13,147.25,3,1,High_Value,4.0,High_Value
+1348,Accessories,224.21,64.18,1,4,Potential,3.0,Potential
+1349,Clothing & Apparel,729.56,313.61,4,2,High_Value,5.0,High_Value
+1350,Accessories,150.97,68.29,1,5,At_Risk,2.0,Potential
+1351,Clothing & Apparel,582.88,203.84,2,4,Potential,4.0,Champions
+1352,Electronics,647.51,66.78,1,3,Loyal,2.0,At_Risk
+1353,Clothing & Apparel,319.34,66.33,1,4,Potential,3.0,Potential
+1354,Electronics,2593.08,351.79,4,5,Champions,5.0,Champions
+1355,Clothing & Apparel,640.14,282.67,2,4,Champions,4.0,Champions
+1356,Clothing & Apparel,184.15,63.07,1,4,At_Risk,2.0,Potential
+1357,Accessories,357.64,98.93,2,2,Lost,4.0,High_Value
+1358,Clothing & Apparel,177.92,75.55,1,2,Lost,2.0,Lost
+1359,Electronics,557.8,109.1,1,4,Potential,2.0,Potential
+1360,Accessories,237.09,48.19,1,3,At_Risk,3.0,Loyal
+1361,Clothing & Apparel,138.29,37.03,1,4,At_Risk,1.0,At_Risk
+1362,Clothing & Apparel,297.51,82.91,1,1,Lost,3.0,At_Risk
+1363,Accessories,244.14,87.76,1,4,Potential,3.0,Potential
+1364,Home & Furniture,110.92,35.04,1,4,At_Risk,1.0,At_Risk
+1365,Accessories,224.1,95.89,1,1,Lost,3.0,At_Risk
+1366,Clothing & Apparel,445.02,175.44,3,4,Potential,4.0,Champions
+1367,Home & Furniture,1172.82,220.25,2,5,Champions,4.0,Champions
+1368,Electronics,942.12,102.2,1,5,Champions,3.0,Potential
+1369,Electronics,378.0,48.24,1,3,Loyal,1.0,At_Risk
+1370,Electronics,690.79,118.54,1,5,Champions,2.0,Potential
+1371,Accessories,153.93,33.6,1,5,At_Risk,2.0,Potential
+1372,Electronics,2863.95,377.72,3,4,Champions,5.0,Champions
+1373,Home & Furniture,1203.56,374.95,2,2,High_Value,4.0,High_Value
+1374,Electronics,144.88,14.27,1,2,Lost,1.0,Lost
+1375,Clothing & Apparel,207.51,47.69,3,3,At_Risk,2.0,At_Risk
+1376,Electronics,777.2,75.82,2,4,Champions,3.0,Potential
+1377,Home & Furniture,1643.1,427.1,5,5,Champions,5.0,Champions
+1378,Electronics,720.86,95.32,1,2,High_Value,3.0,At_Risk
+1379,Electronics,172.95,17.4,1,1,Lost,1.0,Lost
+1380,Electronics,894.92,165.66,2,5,Champions,3.0,Potential
+1381,Clothing & Apparel,143.01,62.24,1,2,Lost,1.0,Lost
+1382,Clothing & Apparel,227.2,101.29,1,4,Potential,2.0,Potential
+1383,Electronics,723.9,143.99,1,5,Champions,3.0,Potential
+1384,Home & Furniture,3546.24,1062.74,4,3,Loyal,5.0,Loyal
+1385,Home & Furniture,1525.4,277.92,2,1,High_Value,5.0,High_Value
+1386,Clothing & Apparel,1521.72,517.49,4,4,Champions,5.0,Champions
+1387,Clothing & Apparel,101.01,43.23,1,3,At_Risk,1.0,At_Risk
+1388,Electronics,1535.65,261.47,5,3,Loyal,4.0,Loyal
+1389,Accessories,427.92,144.4,3,1,At_Risk,5.0,High_Value
+1390,Electronics,465.53,77.95,1,1,At_Risk,2.0,Lost
+1391,Clothing & Apparel,443.47,92.06,1,5,Potential,4.0,Champions
+1392,Clothing & Apparel,719.46,291.17,3,3,Loyal,5.0,Loyal
+1393,Electronics,2861.79,527.89,3,4,Champions,5.0,Champions
+1394,Accessories,232.42,106.65,1,1,Lost,3.0,At_Risk
+1395,Accessories,190.0,38.57,1,5,At_Risk,3.0,Potential
+1396,Home & Furniture,1919.4,323.09,5,4,Champions,5.0,Champions
+1397,Electronics,2171.28,259.53,3,3,Loyal,5.0,Loyal
+1398,Electronics,1679.72,210.07,2,2,High_Value,4.0,High_Value
+1398,Home & Furniture,632.1,94.11,3,2,High_Value,3.0,At_Risk
+1399,Clothing & Apparel,415.61,137.05,1,4,Potential,4.0,Champions
+1400,Electronics,532.3,72.33,2,3,Loyal,2.0,At_Risk
+1401,Clothing & Apparel,407.78,124.4,1,2,At_Risk,4.0,High_Value
+1402,Clothing & Apparel,196.16,75.24,2,1,Lost,2.0,Lost
+1403,Electronics,199.17,32.83,1,2,Lost,1.0,Lost
+1404,Clothing & Apparel,162.54,62.73,1,2,Lost,2.0,Lost
+1405,Clothing & Apparel,166.81,37.83,1,1,Lost,2.0,Lost
+1406,Clothing & Apparel,236.4,77.27,2,5,Potential,2.0,Potential
+1407,Accessories,260.56,52.45,2,5,Potential,4.0,Champions
+1408,Home & Furniture,252.4,40.82,2,4,Potential,1.0,At_Risk
+1409,Clothing & Apparel,763.05,326.84,3,3,Loyal,5.0,Loyal
+1410,Home & Furniture,1850.12,280.03,2,4,Champions,5.0,Champions
+1411,Accessories,223.8,85.73,1,1,Lost,3.0,At_Risk
+1412,Home & Furniture,1089.34,160.67,2,1,High_Value,4.0,High_Value
+1413,Home & Furniture,865.97,239.05,1,1,High_Value,4.0,High_Value
+1414,Electronics,563.26,50.02,2,4,Potential,2.0,Potential
+1415,Home & Furniture,139.73,42.54,1,1,Lost,1.0,Lost
+1416,Accessories,221.35,84.25,1,4,Potential,3.0,Potential
+1417,Home & Furniture,373.84,69.2,1,1,At_Risk,2.0,Lost
+1418,Clothing & Apparel,869.12,185.07,4,3,Loyal,5.0,Loyal
+1419,Clothing & Apparel,261.76,115.34,2,1,Lost,2.0,Lost
+1420,Electronics,409.92,46.07,3,2,At_Risk,1.0,Lost
+1421,Home & Furniture,344.88,119.1,2,1,Lost,2.0,Lost
+1422,Home & Furniture,652.86,162.41,2,4,Champions,3.0,Potential
+1423,Accessories,77.81,27.61,1,4,At_Risk,1.0,At_Risk
+1424,Home & Furniture,1479.1,199.61,2,5,Champions,5.0,Champions
+1425,Accessories,97.6,41.92,1,4,At_Risk,1.0,At_Risk
+1426,Clothing & Apparel,157.24,53.78,2,5,At_Risk,2.0,Potential
+1427,Clothing & Apparel,849.36,195.67,2,5,Champions,5.0,Champions
+1428,Electronics,675.72,96.35,1,4,Champions,2.0,Potential
+1429,Electronics,2008.05,389.74,3,5,Champions,5.0,Champions
+1430,Home & Furniture,1577.08,406.8,4,5,Champions,5.0,Champions
+1431,Home & Furniture,250.8,37.72,3,2,Lost,1.0,Lost
+1432,Electronics,917.05,138.94,1,1,High_Value,3.0,At_Risk
+1433,Home & Furniture,554.12,161.6,1,5,Potential,2.0,Potential
+1434,Electronics,628.68,125.73,1,5,Potential,2.0,Potential
+1435,Home & Furniture,533.52,94.33,2,1,At_Risk,2.0,Lost
+1436,Home & Furniture,419.14,91.31,1,3,Loyal,2.0,At_Risk
+1437,Clothing & Apparel,411.96,104.73,1,4,Potential,4.0,Champions
+1438,Clothing & Apparel,81.28,17.05,1,5,At_Risk,1.0,At_Risk
+1439,Clothing & Apparel,238.39,94.3,1,3,At_Risk,2.0,At_Risk
+1440,Clothing & Apparel,346.01,106.8,1,3,At_Risk,3.0,Loyal
+1441,Home & Furniture,362.59,99.2,1,5,Potential,2.0,Potential
+1442,Clothing & Apparel,1214.91,425.8,3,5,Champions,5.0,Champions
+1443,Accessories,131.0,29.33,2,3,At_Risk,2.0,At_Risk
+1444,Electronics,655.72,118.52,1,2,High_Value,2.0,Lost
+1445,Clothing & Apparel,656.02,181.61,2,1,High_Value,4.0,High_Value
+1446,Clothing & Apparel,343.24,145.76,4,2,Lost,3.0,At_Risk
+1447,Electronics,949.83,96.81,3,5,Champions,3.0,Potential
+1448,Clothing & Apparel,1248.78,510.0,3,1,High_Value,5.0,High_Value
+1449,Clothing & Apparel,398.11,135.11,1,5,Potential,4.0,Champions
+1450,Home & Furniture,315.6,99.12,4,4,Potential,1.0,At_Risk
+1451,Home & Furniture,240.27,84.05,3,1,Lost,1.0,Lost
+1452,Clothing & Apparel,184.14,77.57,2,2,Lost,2.0,Lost
+1453,Clothing & Apparel,45.74,17.26,1,4,At_Risk,1.0,At_Risk
+1454,Home & Furniture,238.22,67.03,2,4,Potential,1.0,At_Risk
+1455,Clothing & Apparel,710.61,223.57,3,1,High_Value,5.0,High_Value
+1456,Accessories,175.66,50.22,1,4,At_Risk,2.0,Potential
+1457,Electronics,1506.96,136.44,2,3,Loyal,4.0,Loyal
+1458,Electronics,526.27,44.86,1,4,Potential,2.0,Potential
+1459,Accessories,226.56,86.37,2,4,Potential,3.0,Potential
+1460,Electronics,456.17,75.43,1,4,Potential,2.0,Potential
+1461,Electronics,946.26,103.7,3,2,High_Value,3.0,At_Risk
+1462,Home & Furniture,55.95,14.58,1,2,Lost,1.0,Lost
+1463,Clothing & Apparel,836.34,361.81,2,5,Champions,5.0,Champions
+1464,Home & Furniture,590.62,125.22,2,4,Potential,2.0,Potential
+1465,Clothing & Apparel,524.76,224.22,3,5,Potential,4.0,Champions
+1466,Electronics,452.08,80.58,1,3,Loyal,2.0,At_Risk
+1467,Home & Furniture,146.91,50.65,1,2,Lost,1.0,Lost
+1468,Electronics,968.69,121.41,1,4,Champions,3.0,Potential
+1469,Accessories,159.81,61.38,1,2,Lost,2.0,Lost
+1470,Clothing & Apparel,393.74,86.02,1,3,Loyal,3.0,Loyal
+1471,Clothing & Apparel,421.46,111.66,1,2,At_Risk,4.0,High_Value
+1472,Clothing & Apparel,320.82,108.71,2,4,Potential,3.0,Potential
+1473,Clothing & Apparel,198.3,72.91,3,1,Lost,2.0,Lost
+1474,Home & Furniture,373.64,53.59,1,2,At_Risk,2.0,Lost
+1475,Electronics,447.97,58.49,1,5,Potential,2.0,Potential
+1476,Electronics,204.86,36.04,1,4,Potential,1.0,At_Risk
+1477,Accessories,205.98,93.7,1,5,Potential,3.0,Potential
+1478,Home & Furniture,518.47,166.7,1,1,At_Risk,2.0,Lost
+1479,Home & Furniture,808.21,154.56,1,5,Champions,3.0,Potential
+1480,Clothing & Apparel,663.9,287.86,3,3,Loyal,4.0,Loyal
+1480,Home & Furniture,5835.18,1133.13,6,3,Loyal,5.0,Loyal
+1481,Electronics,636.7,102.98,2,1,High_Value,2.0,Lost
+1482,Electronics,967.16,83.29,4,5,Champions,3.0,Potential
+1483,Home & Furniture,531.19,116.12,1,4,Potential,2.0,Potential
+1484,Home & Furniture,164.54,21.6,1,2,Lost,1.0,Lost
+1485,Accessories,250.6,74.27,1,3,At_Risk,4.0,Loyal
+1486,Clothing & Apparel,136.54,42.3,1,1,Lost,1.0,Lost
+1487,Clothing & Apparel,99.55,34.34,1,1,Lost,1.0,Lost
+1488,Home & Furniture,519.37,70.72,1,3,Loyal,2.0,At_Risk
+1489,Accessories,444.69,206.44,3,3,Loyal,5.0,Loyal
+1490,Home & Furniture,123.27,25.96,3,5,At_Risk,1.0,At_Risk
+1491,Home & Furniture,653.68,91.21,1,5,Champions,3.0,Potential
+1492,Home & Furniture,591.69,155.6,1,3,Loyal,3.0,Loyal
+1493,Electronics,1899.15,287.03,3,4,Champions,5.0,Champions
+1494,Electronics,703.7,109.86,1,5,Champions,2.0,Potential
+1495,Clothing & Apparel,304.42,116.45,2,2,Lost,3.0,At_Risk
+1496,Home & Furniture,897.87,303.33,3,2,High_Value,4.0,High_Value
+1497,Electronics,1595.14,219.56,2,4,Champions,4.0,Champions
+1498,Accessories,401.9,147.48,2,1,At_Risk,4.0,High_Value
+1499,Clothing & Apparel,1202.65,345.52,5,4,Champions,5.0,Champions
+1500,Home & Furniture,1383.58,453.65,2,5,Champions,4.0,Champions
+1501,Home & Furniture,351.41,111.26,1,3,At_Risk,2.0,At_Risk
+1502,Electronics,148.21,20.71,1,4,At_Risk,1.0,At_Risk
+1503,Clothing & Apparel,280.86,121.38,1,2,Lost,3.0,At_Risk
+1504,Home & Furniture,2707.2,576.22,4,1,High_Value,5.0,High_Value
+1505,Accessories,54.97,13.09,1,2,Lost,1.0,Lost
+1506,Home & Furniture,723.8,97.92,4,1,High_Value,3.0,At_Risk
+1507,Electronics,2444.0,232.75,5,3,Loyal,5.0,Loyal
+1507,Home & Furniture,761.3,157.41,3,3,Loyal,3.0,Loyal
+1508,Clothing & Apparel,41.61,13.78,1,3,At_Risk,1.0,At_Risk
+1509,Home & Furniture,476.18,146.73,2,3,Loyal,2.0,At_Risk
+1510,Electronics,926.82,81.62,1,2,High_Value,3.0,At_Risk
+1511,Accessories,71.66,24.46,1,3,At_Risk,1.0,At_Risk
+1512,Electronics,2345.5,308.11,2,1,High_Value,5.0,High_Value
+1513,Clothing & Apparel,385.6,169.55,1,5,Potential,3.0,Potential
+1514,Clothing & Apparel,102.93,25.09,1,3,At_Risk,1.0,At_Risk
+1515,Home & Furniture,1533.72,214.94,2,1,High_Value,5.0,High_Value
+1516,Electronics,269.72,27.66,1,3,At_Risk,1.0,At_Risk
+1517,Electronics,1335.94,152.12,2,3,Loyal,4.0,Loyal
+1518,Accessories,459.3,118.65,2,4,Potential,5.0,Champions
+1519,Accessories,147.7,44.32,1,4,At_Risk,2.0,Potential
+1520,Home & Furniture,237.48,38.51,1,2,Lost,1.0,Lost
+1521,Accessories,223.32,99.42,2,1,Lost,3.0,At_Risk
+1522,Clothing & Apparel,856.34,350.5,2,1,High_Value,5.0,High_Value
+1523,Accessories,419.34,90.77,3,3,Loyal,4.0,Loyal
+1524,Clothing & Apparel,1750.36,397.83,4,3,Loyal,5.0,Loyal
+1525,Home & Furniture,171.25,33.55,1,4,At_Risk,1.0,At_Risk
+1526,Accessories,339.26,130.61,2,1,Lost,4.0,High_Value
+1527,Home & Furniture,340.47,92.51,1,3,At_Risk,2.0,At_Risk
+1528,Clothing & Apparel,116.08,35.63,1,2,Lost,1.0,Lost
+1529,Electronics,1867.18,294.03,2,4,Champions,5.0,Champions
+1530,Accessories,191.44,75.69,1,5,At_Risk,3.0,Potential
+1531,Home & Furniture,110.63,34.97,1,1,Lost,1.0,Lost
+1532,Clothing & Apparel,683.24,295.55,2,5,Champions,4.0,Champions
+1533,Electronics,2599.32,392.72,3,3,Loyal,5.0,Loyal
+1534,Electronics,4731.1,806.98,5,2,High_Value,5.0,High_Value
+1535,Electronics,1659.51,261.48,3,3,Loyal,4.0,Loyal
+1536,Accessories,535.16,111.53,4,2,At_Risk,5.0,High_Value
+1537,Clothing & Apparel,412.45,180.65,1,3,Loyal,4.0,Loyal
+1538,Electronics,471.84,82.09,1,3,Loyal,2.0,At_Risk
+1539,Clothing & Apparel,255.37,79.23,1,3,At_Risk,2.0,At_Risk
+1540,Home & Furniture,515.67,106.76,1,1,At_Risk,2.0,Lost
+1541,Clothing & Apparel,122.81,41.08,1,4,At_Risk,1.0,At_Risk
+1542,Home & Furniture,418.63,81.02,1,3,Loyal,2.0,At_Risk
+1543,Home & Furniture,1242.12,230.69,4,2,High_Value,4.0,High_Value
+1544,Home & Furniture,517.89,97.14,1,2,At_Risk,2.0,Lost
+1545,Electronics,1957.9,286.28,2,1,High_Value,5.0,High_Value
+1546,Electronics,1086.74,118.74,2,5,Champions,4.0,Champions
+1547,Clothing & Apparel,761.2,201.36,2,2,High_Value,5.0,High_Value
+1548,Clothing & Apparel,569.37,168.09,3,3,Loyal,4.0,Loyal
+1549,Electronics,1356.92,193.71,2,2,High_Value,4.0,High_Value
+1550,Electronics,3677.8,360.68,5,4,Champions,5.0,Champions
+1551,Home & Furniture,260.51,79.97,1,1,Lost,1.0,Lost
+1552,Clothing & Apparel,263.96,81.41,2,5,Potential,2.0,Potential
+1553,Home & Furniture,2852.71,742.1400000000001,4,4,Champions,5.0,Champions
+1554,Electronics,535.04,90.98,1,2,At_Risk,2.0,Lost
+1555,Accessories,369.82,78.88,2,1,At_Risk,4.0,High_Value
+1556,Accessories,625.02,120.23,3,1,At_Risk,5.0,High_Value
+1557,Accessories,231.77,53.13,1,4,Potential,3.0,Potential
+1558,Home & Furniture,844.3,223.8,2,1,High_Value,4.0,High_Value
+1559,Accessories,133.36,51.15,1,2,Lost,2.0,Lost
+1560,Clothing & Apparel,255.22,113.63,1,4,Potential,2.0,Potential
+1561,Clothing & Apparel,481.2,127.47,2,3,Loyal,4.0,Loyal
+1562,Electronics,2756.01,437.35,3,3,Loyal,5.0,Loyal
+1563,Electronics,295.24,25.39,2,5,Potential,1.0,At_Risk
+1563,Home & Furniture,106.1,13.31,1,5,Potential,1.0,At_Risk
+1564,Clothing & Apparel,544.02,167.49,3,5,Potential,4.0,Champions
+1565,Electronics,749.61,70.66,1,2,High_Value,3.0,At_Risk
+1566,Clothing & Apparel,45.54,14.2,2,2,Lost,1.0,Lost
+1567,Clothing & Apparel,341.01,90.11,1,4,Potential,3.0,Potential
+1568,Clothing & Apparel,1355.28,337.97,4,4,Champions,5.0,Champions
+1569,Electronics,2845.86,556.08,3,3,Loyal,5.0,Loyal
+1570,Clothing & Apparel,437.14,196.52,1,3,Loyal,4.0,Loyal
+1571,Electronics,2276.36,191.37,4,1,High_Value,5.0,High_Value
+1572,Electronics,582.78,65.62,2,4,Potential,2.0,Potential
+1573,Clothing & Apparel,106.13,41.35,1,1,Lost,1.0,Lost
+1574,Clothing & Apparel,426.11,128.15,1,3,Loyal,4.0,Loyal
+1575,Electronics,184.99,24.3,1,5,At_Risk,1.0,At_Risk
+1576,Home & Furniture,2069.8,387.11,4,4,Champions,5.0,Champions
+1577,Clothing & Apparel,994.52,386.31,4,5,Champions,5.0,Champions
+1578,Accessories,465.78,215.23,3,2,At_Risk,5.0,High_Value
+1579,Electronics,755.91,119.97,1,1,High_Value,3.0,At_Risk
+1580,Electronics,509.11,69.51,1,2,At_Risk,2.0,Lost
+1581,Electronics,754.53,87.6,3,5,Champions,3.0,Potential
+1582,Home & Furniture,683.46,157.57,1,5,Champions,3.0,Potential
+1583,Accessories,495.66,218.61,3,4,Potential,5.0,Champions
+1584,Home & Furniture,1937.97,418.76,3,5,Champions,5.0,Champions
+1585,Home & Furniture,1092.17,354.24,1,3,Loyal,4.0,Loyal
+1586,Electronics,788.14,146.31,1,5,Champions,3.0,Potential
+1587,Clothing & Apparel,53.99,11.58,1,3,At_Risk,1.0,At_Risk
+1588,Clothing & Apparel,522.62,217.06,2,1,At_Risk,4.0,High_Value
+1589,Clothing & Apparel,37.71,9.81,1,1,Lost,1.0,Lost
+1590,Electronics,2346.57,353.51,3,4,Champions,5.0,Champions
+1591,Clothing & Apparel,442.53,163.6,3,4,Potential,4.0,Champions
+1592,Electronics,664.1,64.71,2,5,Champions,2.0,Potential
+1593,Home & Furniture,1563.56,196.28,2,2,High_Value,5.0,High_Value
+1594,Home & Furniture,1522.2,388.51,2,2,High_Value,5.0,High_Value
+1595,Clothing & Apparel,84.22,20.45,1,4,At_Risk,1.0,At_Risk
+1596,Home & Furniture,1858.32,424.68,3,1,High_Value,5.0,High_Value
+1597,Clothing & Apparel,116.74,29.3,1,1,Lost,1.0,Lost
+1598,Clothing & Apparel,1654.32,373.6,4,4,Champions,5.0,Champions
+1599,Accessories,696.69,183.59,3,4,Champions,5.0,Champions
+1600,Clothing & Apparel,285.18,62.49,1,2,Lost,3.0,At_Risk
+1601,Electronics,1180.45,136.49,1,1,High_Value,4.0,High_Value
+1602,Clothing & Apparel,354.66,159.21,3,5,Potential,3.0,Potential
+1603,Clothing & Apparel,46.68,13.73,1,5,At_Risk,1.0,At_Risk
+1604,Clothing & Apparel,141.84,42.11,3,5,At_Risk,1.0,At_Risk
+1605,Clothing & Apparel,197.43,82.33,1,3,At_Risk,2.0,At_Risk
+1606,Home & Furniture,193.72,65.83,1,4,At_Risk,1.0,At_Risk
+1607,Home & Furniture,1321.48,287.2,2,2,High_Value,4.0,High_Value
+1608,Clothing & Apparel,166.91,75.05,1,3,At_Risk,2.0,At_Risk
+1609,Home & Furniture,623.4,194.0,1,3,Loyal,3.0,Loyal
+1610,Clothing & Apparel,774.22,246.78,2,5,Champions,5.0,Champions
+1611,Clothing & Apparel,359.22,105.24,2,1,Lost,3.0,At_Risk
+1612,Electronics,551.95,77.34,1,3,Loyal,2.0,At_Risk
+1613,Clothing & Apparel,119.18,52.86,1,1,Lost,1.0,Lost
+1614,Clothing & Apparel,275.5,71.32,1,5,Potential,3.0,Potential
+1615,Clothing & Apparel,386.46,96.54,1,3,Loyal,3.0,Loyal
+1616,Clothing & Apparel,1426.64,339.15,4,4,Champions,5.0,Champions
+1617,Home & Furniture,959.21,309.28,1,5,Champions,4.0,Champions
+1618,Clothing & Apparel,331.33,115.56,1,5,Potential,3.0,Potential
+1619,Electronics,1215.48,181.41,2,2,High_Value,4.0,High_Value
+1620,Home & Furniture,857.4,134.24,3,3,Loyal,4.0,Loyal
+1621,Electronics,1057.11,85.19,3,2,High_Value,4.0,High_Value
+1622,Clothing & Apparel,274.7,82.27,1,3,At_Risk,3.0,Loyal
+1623,Electronics,132.24,22.04,1,3,At_Risk,1.0,At_Risk
+1624,Home & Furniture,453.3,78.79,2,5,Potential,2.0,Potential
+1625,Home & Furniture,377.84,83.28,1,5,Potential,2.0,Potential
+1626,Clothing & Apparel,225.08,50.77,2,4,Potential,2.0,Potential
+1627,Home & Furniture,399.18,85.19,2,3,Loyal,2.0,At_Risk
+1628,Home & Furniture,802.11,172.74,1,3,Loyal,3.0,Loyal
+1629,Electronics,1410.54,118.18,3,5,Champions,4.0,Champions
+1630,Electronics,778.78,85.01,1,3,Loyal,3.0,Loyal
+1631,Clothing & Apparel,242.27,63.41,1,4,Potential,2.0,Potential
+1632,Home & Furniture,555.4,192.39,1,5,Potential,2.0,Potential
+1633,Clothing & Apparel,454.26,160.17,3,1,At_Risk,4.0,High_Value
+1634,Clothing & Apparel,418.35,163.58,1,3,Loyal,4.0,Loyal
+1635,Accessories,194.25,96.46,1,2,High_Value,3.0,At_Risk
+1635,Home & Furniture,2483.25,807.01,3,2,High_Value,5.0,High_Value
+1636,Accessories,265.1,65.3,1,2,Lost,4.0,High_Value
+1637,Home & Furniture,977.88,132.55,3,3,Loyal,4.0,Loyal
+1638,Clothing & Apparel,343.22,153.08,1,2,Lost,3.0,At_Risk
+1639,Electronics,244.12,28.23,2,2,Lost,1.0,Lost
+1640,Home & Furniture,1725.96,467.02,2,2,High_Value,5.0,High_Value
+1641,Home & Furniture,1125.72,380.87,2,2,High_Value,4.0,High_Value
+1642,Clothing & Apparel,494.68,143.53,2,4,Potential,4.0,Champions
+1643,Home & Furniture,782.28,103.74,2,2,High_Value,3.0,At_Risk
+1644,Clothing & Apparel,1085.01,434.53,3,1,High_Value,5.0,High_Value
+1645,Clothing & Apparel,835.35,223.62,3,1,High_Value,5.0,High_Value
+1646,Electronics,1705.56,172.84,3,5,Champions,4.0,Champions
+1647,Home & Furniture,573.7,151.76,2,5,Potential,2.0,Potential
+1648,Clothing & Apparel,639.38,272.01,2,3,Loyal,4.0,Loyal
+1649,Accessories,74.69,29.16,1,4,At_Risk,1.0,At_Risk
+1650,Home & Furniture,526.49,87.97,1,4,Potential,2.0,Potential
+1651,Electronics,4083.96,573.74,4,5,Champions,5.0,Champions
+1652,Electronics,410.32,78.55,2,2,At_Risk,1.0,Lost
+1653,Electronics,807.86,109.46,2,5,Champions,3.0,Potential
+1654,Home & Furniture,470.63,144.17,1,1,At_Risk,2.0,Lost
+1655,Electronics,560.5,82.97,1,2,At_Risk,2.0,Lost
+1656,Clothing & Apparel,418.87,127.88,1,1,At_Risk,4.0,High_Value
+1657,Electronics,2933.7,368.61,3,1,High_Value,5.0,High_Value
+1658,Accessories,166.95,35.400000000000006,2,2,Lost,2.0,Lost
+1659,Electronics,1242.7,196.37,2,4,Champions,4.0,Champions
+1660,Home & Furniture,2309.94,796.23,3,2,High_Value,5.0,High_Value
+1661,Home & Furniture,624.02,153.87,2,1,At_Risk,3.0,At_Risk
+1662,Home & Furniture,277.4,93.13,1,2,Lost,1.0,Lost
+1663,Clothing & Apparel,187.0,52.7,1,4,At_Risk,2.0,Potential
+1664,Home & Furniture,619.63,187.27,1,2,At_Risk,3.0,At_Risk
+1665,Home & Furniture,739.41,153.15,1,5,Champions,3.0,Potential
+1666,Electronics,920.9,77.41,1,2,High_Value,3.0,At_Risk
+1667,Clothing & Apparel,246.06,105.16,2,5,Potential,2.0,Potential
+1668,Home & Furniture,1294.44,371.92,2,5,Champions,4.0,Champions
+1669,Clothing & Apparel,386.22,162.65,1,3,Loyal,3.0,Loyal
+1670,Clothing & Apparel,811.62,265.26,2,1,High_Value,5.0,High_Value
+1671,Clothing & Apparel,1274.34,368.98,3,2,High_Value,5.0,High_Value
+1672,Clothing & Apparel,379.31,86.83,1,4,Potential,3.0,Potential
+1673,Electronics,826.05,100.7,1,4,Champions,3.0,Potential
+1674,Clothing & Apparel,971.61,362.72,3,1,High_Value,5.0,High_Value
+1675,Accessories,145.64,59.78,1,2,Lost,2.0,Lost
+1676,Accessories,496.38,216.68,2,3,Loyal,5.0,Loyal
+1677,Home & Furniture,406.96,94.12,2,3,Loyal,2.0,At_Risk
+1678,Clothing & Apparel,349.36,134.81,1,4,Potential,3.0,Potential
+1679,Electronics,395.82,60.98,1,5,Potential,1.0,At_Risk
+1680,Clothing & Apparel,358.33,145.92,1,3,At_Risk,3.0,Loyal
+1681,Clothing & Apparel,395.96,82.23,1,2,At_Risk,4.0,High_Value
+1682,Accessories,337.06,138.32,2,1,Lost,4.0,High_Value
+1683,Clothing & Apparel,806.5,167.51,2,2,High_Value,5.0,High_Value
+1684,Electronics,174.79,18.79,1,2,Lost,1.0,Lost
+1685,Clothing & Apparel,1039.5,410.6,3,3,Loyal,5.0,Loyal
+1686,Accessories,152.95,65.99,1,3,At_Risk,2.0,At_Risk
+1687,Clothing & Apparel,166.96,45.89,2,1,Lost,2.0,Lost
+1688,Accessories,273.72,116.0,2,2,Lost,4.0,High_Value
+1689,Accessories,175.69,73.88,1,2,Lost,2.0,Lost
+1690,Clothing & Apparel,207.95,75.05,1,2,Lost,2.0,Lost
+1691,Accessories,209.42,68.71,2,1,Lost,3.0,At_Risk
+1692,Home & Furniture,841.7,241.46,1,4,Champions,4.0,Champions
+1693,Accessories,281.82,89.35,3,4,Potential,4.0,Champions
+1694,Clothing & Apparel,244.58,82.48,2,2,Lost,2.0,Lost
+1695,Home & Furniture,1480.1,260.72,2,5,Champions,5.0,Champions
+1696,Accessories,199.91,64.74,1,4,Potential,3.0,Potential
+1697,Electronics,373.4,52.33,1,5,Potential,1.0,At_Risk
+1698,Home & Furniture,590.86,116.27,1,1,At_Risk,2.0,Lost
+1699,Home & Furniture,967.16,338.13,1,1,High_Value,4.0,High_Value
+1700,Clothing & Apparel,845.46,281.42,2,1,High_Value,5.0,High_Value
+1701,Electronics,2043.81,222.89,3,2,High_Value,5.0,High_Value
+1702,Home & Furniture,148.97,18.33,1,2,Lost,1.0,Lost
+1703,Home & Furniture,518.43,67.76,1,2,At_Risk,2.0,Lost
+1704,Accessories,231.55,89.55,1,1,Lost,3.0,At_Risk
+1705,Home & Furniture,763.58,136.24,2,4,Champions,3.0,Potential
+1706,Accessories,162.86,64.82,1,4,At_Risk,2.0,Potential
+1707,Electronics,870.56,83.14,1,4,Champions,3.0,Potential
+1708,Accessories,181.37,60.5,1,3,At_Risk,2.0,At_Risk
+1709,Home & Furniture,2205.32,649.22,4,1,High_Value,5.0,High_Value
+1710,Electronics,1534.42,154.81,2,2,High_Value,4.0,High_Value
+1711,Clothing & Apparel,774.24,163.62,3,5,Champions,5.0,Champions
+1712,Clothing & Apparel,237.71,99.26,1,5,Potential,2.0,Potential
+1713,Accessories,63.75,29.39,1,2,Lost,1.0,Lost
+1714,Clothing & Apparel,574.52,247.36,2,1,At_Risk,4.0,High_Value
+1715,Electronics,3567.32,355.59,4,3,Loyal,5.0,Loyal
+1716,Home & Furniture,3058.65,802.25,3,2,High_Value,5.0,High_Value
+1717,Clothing & Apparel,93.77,40.31,1,5,At_Risk,1.0,At_Risk
+1718,Clothing & Apparel,848.46,351.07,3,5,Champions,5.0,Champions
+1719,Home & Furniture,465.44,141.45,1,1,At_Risk,2.0,Lost
+1720,Home & Furniture,1755.82,524.16,2,5,Champions,5.0,Champions
+1721,Accessories,56.33,24.35,1,3,At_Risk,1.0,At_Risk
+1722,Accessories,707.95,330.53,5,3,Loyal,5.0,Loyal
+1723,Electronics,391.51,52.26,1,3,Loyal,1.0,At_Risk
+1724,Clothing & Apparel,697.95,195.71,3,2,High_Value,5.0,High_Value
+1725,Electronics,660.94,83.78,2,2,High_Value,2.0,Lost
+1726,Accessories,350.73,126.68,3,4,Potential,4.0,Champions
+1727,Accessories,302.04,150.3,2,5,Potential,4.0,Champions
+1728,Electronics,2076.06,321.66,2,3,Loyal,5.0,Loyal
+1729,Clothing & Apparel,193.53,59.79,1,4,At_Risk,2.0,Potential
+1730,Electronics,1037.6,195.79,1,1,High_Value,4.0,High_Value
+1731,Electronics,1784.2,329.34,2,5,Champions,5.0,Champions
+1732,Electronics,930.5,135.69,1,4,Champions,3.0,Potential
+1733,Electronics,1926.66,371.73,3,4,Champions,5.0,Champions
+1734,Electronics,645.01,80.81,1,3,Loyal,2.0,At_Risk
+1735,Electronics,1639.65,264.17,3,4,Champions,4.0,Champions
+1736,Home & Furniture,1248.28,206.42,2,5,Champions,4.0,Champions
+1737,Home & Furniture,945.22,161.0,1,1,High_Value,4.0,High_Value
+1738,Home & Furniture,1030.44,143.67,2,4,Champions,4.0,Champions
+1739,Home & Furniture,289.27,92.79,1,4,Potential,1.0,At_Risk
+1740,Home & Furniture,883.65,179.93,3,2,High_Value,4.0,High_Value
+1741,Clothing & Apparel,223.49,52.66,1,2,Lost,2.0,Lost
+1742,Clothing & Apparel,420.24,97.68,1,2,At_Risk,4.0,High_Value
+1743,Electronics,1140.26,105.28,1,4,Champions,4.0,Champions
+1744,Clothing & Apparel,803.66,317.15,2,5,Champions,5.0,Champions
+1745,Electronics,3670.68,391.02,4,4,Champions,5.0,Champions
+1746,Electronics,890.28,152.13,2,5,Champions,3.0,Potential
+1747,Home & Furniture,1035.45,322.56,3,4,Champions,4.0,Champions
+1748,Clothing & Apparel,335.81,146.75,1,1,Lost,3.0,At_Risk
+1749,Home & Furniture,1299.86,379.76,2,3,Loyal,4.0,Loyal
+1750,Clothing & Apparel,394.01,88.1,1,5,Potential,4.0,Champions
+1751,Clothing & Apparel,487.38,132.74,2,2,At_Risk,4.0,High_Value
+1752,Accessories,164.87,44.47,1,1,Lost,2.0,Lost
+1753,Electronics,258.71,50.75,1,3,At_Risk,1.0,At_Risk
+1754,Clothing & Apparel,374.73,106.23,1,4,Potential,3.0,Potential
+1755,Electronics,4854.6,916.63,4,4,Champions,5.0,Champions
+1756,Clothing & Apparel,562.28,179.8,2,2,At_Risk,4.0,High_Value
+1757,Clothing & Apparel,115.39,41.43,1,5,At_Risk,1.0,At_Risk
+1758,Home & Furniture,2820.09,587.43,3,5,Champions,5.0,Champions
+1759,Accessories,442.12,96.83,2,3,Loyal,5.0,Loyal
+1760,Electronics,1527.3,152.59,2,1,High_Value,4.0,High_Value
+1761,Home & Furniture,61.34,18.95,1,5,At_Risk,1.0,At_Risk
+1762,Accessories,180.03,38.94,1,2,Lost,2.0,Lost
+1763,Accessories,162.87,75.4,1,1,Lost,2.0,Lost
+1764,Home & Furniture,1279.17,265.27,3,2,High_Value,4.0,High_Value
+1765,Clothing & Apparel,481.65,164.95,1,5,Potential,4.0,Champions
+1766,Home & Furniture,975.92,333.33,2,3,Loyal,4.0,Loyal
+1767,Accessories,89.11,28.58,1,3,At_Risk,1.0,At_Risk
+1768,Clothing & Apparel,613.8,122.81,3,1,At_Risk,4.0,High_Value
+1769,Clothing & Apparel,202.3,54.69,1,5,Potential,2.0,Potential
+1770,Electronics,314.8,44.18,1,3,At_Risk,1.0,At_Risk
+1771,Accessories,584.07,252.65,3,2,At_Risk,5.0,High_Value
+1772,Electronics,2286.05,232.52,5,2,High_Value,5.0,High_Value
+1773,Clothing & Apparel,70.1,17.37,1,4,At_Risk,1.0,At_Risk
+1774,Accessories,96.61,43.89,1,2,Lost,1.0,Lost
+1775,Accessories,110.71,47.39,1,5,At_Risk,1.0,At_Risk
+1776,Accessories,229.36,62.57,1,1,Lost,3.0,At_Risk
+1777,Home & Furniture,206.96,33.06,1,2,Lost,1.0,Lost
+1778,Accessories,103.3,24.32,1,3,At_Risk,1.0,At_Risk
+1779,Home & Furniture,1505.66,434.59,2,3,Loyal,5.0,Loyal
+1780,Clothing & Apparel,387.05,134.76,1,3,Loyal,3.0,Loyal
+1781,Electronics,721.24,60.92,1,3,Loyal,3.0,Loyal
+1782,Electronics,493.28,68.44,2,2,At_Risk,2.0,Lost
+1783,Electronics,304.31,41.17,1,2,Lost,1.0,Lost
+1784,Clothing & Apparel,463.94,110.12,2,5,Potential,4.0,Champions
+1785,Electronics,1550.58,269.35,2,1,High_Value,4.0,High_Value
+1786,Accessories,242.11,114.88,1,5,Potential,3.0,Potential
+1787,Accessories,51.19,18.34,1,3,At_Risk,1.0,At_Risk
+1788,Home & Furniture,2531.36,836.43,2,3,Loyal,5.0,Loyal
+1789,Home & Furniture,95.32,12.45,2,2,Lost,1.0,Lost
+1790,Clothing & Apparel,665.84,282.64,2,2,High_Value,4.0,High_Value
+1791,Electronics,300.88,46.64,1,4,Potential,1.0,At_Risk
+1792,Home & Furniture,149.86,43.36,1,5,At_Risk,1.0,At_Risk
+1793,Electronics,762.06,102.5,2,2,High_Value,3.0,At_Risk
+1794,Electronics,1270.54,175.42,2,5,Champions,4.0,Champions
+1795,Home & Furniture,1329.99,234.86,3,1,High_Value,4.0,High_Value
+1796,Accessories,1277.55,506.39,5,4,Champions,5.0,Champions
+1797,Electronics,2466.54,452.22,3,1,High_Value,5.0,High_Value
+1798,Home & Furniture,1326.81,348.21,3,3,Loyal,4.0,Loyal
+1799,Clothing & Apparel,712.98,205.31,2,4,Champions,5.0,Champions
+1800,Clothing & Apparel,330.0,112.77,1,5,Potential,3.0,Potential
+1801,Clothing & Apparel,749.12,320.56,4,4,Champions,5.0,Champions
+1802,Electronics,641.12,95.76,2,4,Champions,2.0,Potential
+1803,Clothing & Apparel,280.61,84.74,1,1,Lost,3.0,At_Risk
+1804,Accessories,266.88,101.3,3,3,At_Risk,4.0,Loyal
+1805,Electronics,1009.03,183.92,1,3,Loyal,4.0,Loyal
+1806,Electronics,437.12,39.79,1,4,Potential,2.0,Potential
+1807,Clothing & Apparel,914.0,225.34,4,3,Loyal,5.0,Loyal
+1808,Electronics,1857.99,326.97,3,1,High_Value,5.0,High_Value
+1809,Home & Furniture,806.14,177.98,1,2,High_Value,3.0,At_Risk
+1810,Clothing & Apparel,316.01,135.18,1,3,At_Risk,3.0,Loyal
+1811,Clothing & Apparel,286.61,86.69,1,3,At_Risk,3.0,Loyal
+1812,Electronics,648.11,60.25,1,2,High_Value,2.0,Lost
+1813,Clothing & Apparel,1747.26,722.15,6,1,High_Value,5.0,High_Value
+1814,Accessories,229.98,70.33,2,3,At_Risk,3.0,Loyal
+1815,Home & Furniture,3977.76,845.42,4,2,High_Value,5.0,High_Value
+1816,Clothing & Apparel,462.52,188.08,4,1,At_Risk,4.0,High_Value
+1817,Home & Furniture,148.78,25.1,1,2,Lost,1.0,Lost
+1818,Clothing & Apparel,423.79,121.78,1,2,At_Risk,4.0,High_Value
+1819,Accessories,705.87,247.08,3,1,High_Value,5.0,High_Value
+1820,Home & Furniture,112.2,16.5,1,3,At_Risk,1.0,At_Risk
+1821,Clothing & Apparel,308.43,117.34,1,1,Lost,3.0,At_Risk
+1822,Clothing & Apparel,437.54,105.8,2,2,At_Risk,4.0,High_Value
+1823,Home & Furniture,620.66,156.43,1,3,Loyal,3.0,Loyal
+1824,Home & Furniture,1081.36,343.07,1,1,High_Value,4.0,High_Value
+1825,Home & Furniture,137.78,18.45,1,3,At_Risk,1.0,At_Risk
+1826,Electronics,925.45,118.13,1,5,Champions,3.0,Potential
+1827,Clothing & Apparel,786.32,318.8,2,3,Loyal,5.0,Loyal
+1828,Electronics,2071.98,200.53,3,5,Champions,5.0,Champions
+1829,Home & Furniture,1646.18,531.47,2,3,Loyal,5.0,Loyal
+1830,Electronics,445.3,36.67,1,4,Potential,2.0,Potential
+1831,Clothing & Apparel,199.02,55.27,1,4,Potential,2.0,Potential
+1832,Home & Furniture,787.44,135.23,1,3,Loyal,3.0,Loyal
+1833,Accessories,436.38,112.03,2,2,At_Risk,5.0,High_Value
+1834,Clothing & Apparel,1363.12,541.07,4,4,Champions,5.0,Champions
+1835,Home & Furniture,305.94,39.62,3,2,Lost,1.0,Lost
+1836,Home & Furniture,239.2,60.09,4,3,At_Risk,1.0,At_Risk
+1837,Home & Furniture,1009.96,344.14,2,5,Champions,4.0,Champions
+1838,Clothing & Apparel,135.9,52.79,1,5,At_Risk,1.0,At_Risk
+1839,Home & Furniture,1172.01,269.68,3,2,High_Value,4.0,High_Value
+1840,Home & Furniture,624.0,121.8,1,3,Loyal,3.0,Loyal
+1841,Clothing & Apparel,135.23,48.39,1,3,At_Risk,1.0,At_Risk
+1842,Electronics,386.32,74.94,1,4,Potential,1.0,At_Risk
+1843,Electronics,788.85,121.06,1,5,Champions,3.0,Potential
+1844,Electronics,635.28,108.66,1,3,Loyal,2.0,At_Risk
+1845,Home & Furniture,1500.78,211.95,2,4,Champions,5.0,Champions
+1846,Home & Furniture,123.06,27.29,1,3,At_Risk,1.0,At_Risk
+1847,Electronics,823.85,126.53,1,4,Champions,3.0,Potential
+1848,Home & Furniture,2095.02,251.55,3,5,Champions,5.0,Champions
+1849,Electronics,1609.41,294.54,3,4,Champions,4.0,Champions
+1850,Home & Furniture,809.23,268.3,1,2,High_Value,3.0,At_Risk
+1851,Clothing & Apparel,155.1,39.73,3,3,At_Risk,2.0,At_Risk
+1852,Electronics,493.21,83.17,1,1,At_Risk,2.0,Lost
+1853,Clothing & Apparel,297.12,112.17,1,5,Champions,3.0,Potential
+1853,Electronics,2313.36,284.36,3,5,Champions,5.0,Champions
+1854,Electronics,145.08,27.59,1,3,At_Risk,1.0,At_Risk
+1855,Home & Furniture,528.0,133.19,4,1,At_Risk,2.0,Lost
+1856,Home & Furniture,318.58,54.7,1,2,Lost,1.0,Lost
+1857,Home & Furniture,3239.08,496.37,4,3,Loyal,5.0,Loyal
+1858,Clothing & Apparel,1076.61,416.19,3,4,Champions,5.0,Champions
+1859,Clothing & Apparel,102.82,42.84,1,2,Lost,1.0,Lost
+1860,Electronics,721.9,64.77,1,3,Loyal,3.0,Loyal
+1861,Electronics,755.82,106.66,2,4,Champions,3.0,Potential
+1862,Home & Furniture,190.44,45.92,1,1,Lost,1.0,Lost
+1863,Clothing & Apparel,268.86,88.55,1,3,At_Risk,2.0,At_Risk
+1864,Electronics,1459.95,223.39,3,5,Champions,4.0,Champions
+1865,Home & Furniture,547.69,105.05,1,2,At_Risk,2.0,Lost
+1866,Home & Furniture,542.91,70.31,1,5,Potential,2.0,Potential
+1867,Electronics,1542.08,165.57,2,2,High_Value,4.0,High_Value
+1868,Electronics,792.04,119.3,2,2,High_Value,3.0,At_Risk
+1869,Accessories,501.87,159.07,3,1,At_Risk,5.0,High_Value
+1870,Electronics,2053.88,274.92,4,3,Loyal,5.0,Loyal
+1871,Home & Furniture,716.26,157.61,1,3,Loyal,3.0,Loyal
+1872,Electronics,2657.16,409.66,3,5,Champions,5.0,Champions
+1873,Electronics,1368.8,214.11,2,3,Loyal,4.0,Loyal
+1874,Home & Furniture,180.01,41.54,1,2,Lost,1.0,Lost
+1875,Accessories,239.8,83.08,1,3,At_Risk,3.0,Loyal
+1876,Electronics,685.59,130.97,1,5,Champions,2.0,Potential
+1877,Electronics,733.81,85.71,1,5,Champions,3.0,Potential
+1878,Clothing & Apparel,106.62,25.17,1,4,At_Risk,1.0,At_Risk
+1879,Accessories,156.85,77.71,1,4,At_Risk,2.0,Potential
+1880,Accessories,123.45,59.96,1,1,Lost,2.0,Lost
+1881,Clothing & Apparel,253.78,110.11,1,5,Potential,2.0,Potential
+1882,Home & Furniture,277.41,76.34,1,5,Potential,1.0,At_Risk
+1883,Clothing & Apparel,320.06,90.84,1,3,At_Risk,3.0,Loyal
+1884,Clothing & Apparel,491.76,174.8,4,5,Potential,4.0,Champions
+1885,Home & Furniture,114.96,14.33,2,2,Lost,1.0,Lost
+1886,Clothing & Apparel,161.4,70.67,1,3,At_Risk,2.0,At_Risk
+1887,Home & Furniture,1257.21,302.72,3,3,Loyal,4.0,Loyal
+1888,Electronics,589.58,83.53,2,5,Potential,2.0,Potential
+1889,Home & Furniture,436.44,123.48,1,1,At_Risk,2.0,Lost
+1890,Home & Furniture,3390.0,463.18,5,3,Loyal,5.0,Loyal
+1891,Electronics,823.3,160.68,1,3,Loyal,3.0,Loyal
+1892,Clothing & Apparel,413.54,100.28,2,2,At_Risk,4.0,High_Value
+1893,Home & Furniture,504.31,149.19,1,2,At_Risk,2.0,Lost
+1894,Clothing & Apparel,60.8,14.35,2,1,Lost,1.0,Lost
+1895,Clothing & Apparel,339.73,105.9,1,3,At_Risk,3.0,Loyal
+1896,Electronics,318.78,59.28,1,1,Lost,1.0,Lost
+1897,Electronics,415.59,75.48,1,5,Potential,1.0,At_Risk
+1898,Clothing & Apparel,30.95,11.66,1,4,At_Risk,1.0,At_Risk
+1899,Accessories,277.54,96.84,2,3,At_Risk,4.0,Loyal
+1900,Home & Furniture,600.09,135.72,1,1,At_Risk,3.0,At_Risk
+1901,Electronics,470.78,51.8,1,5,Potential,2.0,Potential
+1902,Home & Furniture,586.69,180.48,1,1,At_Risk,2.0,Lost
+1903,Home & Furniture,1111.44,226.89,2,2,High_Value,4.0,High_Value
+1904,Clothing & Apparel,29.62,9.9,1,2,Lost,1.0,Lost
+1905,Electronics,413.35,69.94,1,3,Loyal,1.0,At_Risk
+1906,Clothing & Apparel,64.8,14.7,1,5,At_Risk,1.0,At_Risk
+1907,Electronics,2042.95,379.99,7,4,Champions,5.0,Champions
+1908,Clothing & Apparel,771.78,312.57,2,1,High_Value,5.0,High_Value
+1909,Electronics,513.38,63.62,1,2,At_Risk,2.0,Lost
+1910,Clothing & Apparel,282.99,108.27,1,1,Lost,3.0,At_Risk
+1911,Home & Furniture,603.75,74.05,1,1,At_Risk,3.0,At_Risk
+1912,Clothing & Apparel,242.55,74.05,1,3,At_Risk,2.0,At_Risk
+1913,Electronics,339.55,59.96,1,2,Lost,1.0,Lost
+1914,Clothing & Apparel,927.69,226.89,3,4,Champions,5.0,Champions
+1915,Accessories,70.29,27.66,1,5,At_Risk,1.0,At_Risk
+1916,Accessories,223.0,73.47,2,3,At_Risk,3.0,Loyal
+1917,Electronics,412.83,77.91,3,4,Potential,1.0,At_Risk
+1918,Clothing & Apparel,833.04,213.03,3,5,Champions,5.0,Champions
+1919,Home & Furniture,190.34,64.61,1,3,At_Risk,1.0,At_Risk
+1920,Electronics,803.99,114.08,1,1,High_Value,3.0,At_Risk
+1921,Accessories,158.37,64.3,1,4,At_Risk,2.0,Potential
+1922,Home & Furniture,424.47,63.2,1,5,Potential,2.0,Potential
+1923,Accessories,83.71,30.7,1,2,Lost,1.0,Lost
+1924,Electronics,344.34,64.21,2,2,Lost,1.0,Lost
+1925,Electronics,175.68,26.04,1,2,Lost,1.0,Lost
+1926,Accessories,318.66,92.32,3,5,Potential,4.0,Champions
+1927,Accessories,119.98,22.24,2,4,At_Risk,1.0,At_Risk
+1928,Clothing & Apparel,317.26,92.01,2,1,Lost,3.0,At_Risk
+1929,Home & Furniture,640.96,219.84,1,2,High_Value,3.0,At_Risk
+1930,Electronics,180.37,33.33,1,4,At_Risk,1.0,At_Risk
+1931,Accessories,202.92,80.93,1,2,Lost,3.0,At_Risk
+1932,Electronics,1044.85,109.35,1,1,High_Value,4.0,High_Value
+1933,Electronics,2055.12,297.82,2,2,High_Value,5.0,High_Value
+1934,Home & Furniture,772.87,193.14,1,2,High_Value,3.0,At_Risk
+1935,Clothing & Apparel,144.26,58.89,1,5,At_Risk,1.0,At_Risk
+1936,Accessories,240.72,99.01,1,5,Potential,3.0,Potential
+1937,Home & Furniture,743.45,124.58,1,1,High_Value,3.0,At_Risk
+1938,Accessories,104.18,45.6,2,1,Lost,1.0,Lost
+1939,Clothing & Apparel,344.72,100.18,1,2,Lost,3.0,At_Risk
+1940,Accessories,231.88,114.65,1,4,Potential,3.0,Potential
+1940,Clothing & Apparel,238.17,98.55,3,4,Potential,2.0,Potential
+1941,Electronics,1634.3,323.03,2,2,High_Value,4.0,High_Value
+1942,Home & Furniture,365.32,63.97,1,2,Lost,2.0,Lost
+1943,Accessories,126.01,39.73,1,3,At_Risk,2.0,At_Risk
+1944,Clothing & Apparel,262.51,106.09,1,2,Lost,2.0,Lost
+1945,Electronics,1537.52,130.56,2,3,Loyal,4.0,Loyal
+1946,Clothing & Apparel,75.79,32.34,1,2,Lost,1.0,Lost
+1947,Clothing & Apparel,309.28,62.57,1,3,At_Risk,3.0,Loyal
+1948,Accessories,105.6,19.59,1,5,At_Risk,1.0,At_Risk
