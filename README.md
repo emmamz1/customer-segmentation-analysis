@@ -291,7 +291,7 @@ Resultado: "Champions es 2.8x mejor que Potential" (más justo y consistente).
 ## Autor
 
 **Emmanuel Mendoza**
--  [emmamendoza170@gmail.com]
+-  emmamendoza170@gmail.com
 -  [LinkedIn](https://linkedin.com/in/emmanuel-mendoza17)
 -  [GitHub](https://github.com/emmamz1)
 
